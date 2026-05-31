@@ -1,0 +1,206 @@
+{
+  "date": "2026-05-31",
+  "prev_date": "",
+  "periods": {
+    "7": {
+      "period": "近 7 日",
+      "source": "rule",
+      "summary": "近 7 日暂无足够数据判断全站热点。",
+      "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
+      "hot_genres": [],
+      "hot_types": [],
+      "hot_themes": [
+        {
+          "name": "种田",
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "逃荒",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "星际",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
+          "count": 1,
+          "category_count": 1
+        }
+      ]
+    },
+    "14": {
+      "period": "近 14 日",
+      "source": "rule",
+      "summary": "近 14 日暂无足够数据判断全站热点。",
+      "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
+      "hot_genres": [],
+      "hot_types": [],
+      "hot_themes": [
+        {
+          "name": "种田",
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "逃荒",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "星际",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
+          "count": 1,
+          "category_count": 1
+        }
+      ]
+    },
+    "30": {
+      "period": "近 30 日",
+      "source": "rule",
+      "summary": "近 30 日暂无足够数据判断全站热点。",
+      "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
+      "hot_genres": [],
+      "hot_types": [],
+      "hot_themes": [
+        {
+          "name": "种田",
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "逃荒",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "星际",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
+          "count": 1,
+          "category_count": 1
+        }
+      ]
+    },
+    "all": {
+      "period": "全部样本",
+      "source": "rule",
+      "summary": "全部样本暂无足够数据判断全站热点。",
+      "fallback_summary": "全部样本暂无足够数据判断全站热点。",
+      "hot_genres": [],
+      "hot_types": [],
+      "hot_themes": [
+        {
+          "name": "种田",
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "逃荒",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "星际",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "青梅竹马",
+          "count": 1,
+          "category_count": 1
+        }
+      ]
+    }
+  }
+}
