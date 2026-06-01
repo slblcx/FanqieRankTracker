@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-31",
-  "prev_date": "",
+  "date": "2026-06-01",
+  "prev_date": "2026-05-31",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -8,7 +8,16 @@
       "summary": "近 7 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 22,
+          "new_count": 1,
+          "dropped_count": 1,
+          "read_count": 3,
+          "active_days": 1
+        }
+      ],
       "hot_themes": [
         {
           "name": "种田",
@@ -23,11 +32,6 @@
         {
           "name": "强制爱",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "逃荒",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -58,7 +62,16 @@
       "summary": "近 14 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 22,
+          "new_count": 1,
+          "dropped_count": 1,
+          "read_count": 3,
+          "active_days": 1
+        }
+      ],
       "hot_themes": [
         {
           "name": "种田",
@@ -73,11 +86,6 @@
         {
           "name": "强制爱",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "逃荒",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -108,7 +116,16 @@
       "summary": "近 30 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 22,
+          "new_count": 1,
+          "dropped_count": 1,
+          "read_count": 3,
+          "active_days": 1
+        }
+      ],
       "hot_themes": [
         {
           "name": "种田",
@@ -123,11 +140,6 @@
         {
           "name": "强制爱",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "逃荒",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -158,7 +170,16 @@
       "summary": "全部样本暂无足够数据判断全站热点。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 22,
+          "new_count": 1,
+          "dropped_count": 1,
+          "read_count": 3,
+          "active_days": 1
+        }
+      ],
       "hot_themes": [
         {
           "name": "种田",
@@ -173,11 +194,6 @@
         {
           "name": "强制爱",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "逃荒",
-          "count": 1,
           "category_count": 1
         },
         {
