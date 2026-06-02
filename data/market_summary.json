@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-01",
-  "prev_date": "2026-05-31",
+  "date": "2026-06-02",
+  "prev_date": "2026-06-01",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 22,
-          "new_count": 1,
-          "dropped_count": 1,
-          "read_count": 3,
-          "active_days": 1
+          "score": 57,
+          "new_count": 4,
+          "dropped_count": 4,
+          "read_count": 6,
+          "active_days": 2
         }
       ],
       "hot_themes": [
@@ -26,12 +26,17 @@
         },
         {
           "name": "系统",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "强制爱",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -41,16 +46,6 @@
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -65,11 +60,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 22,
-          "new_count": 1,
-          "dropped_count": 1,
-          "read_count": 3,
-          "active_days": 1
+          "score": 57,
+          "new_count": 4,
+          "dropped_count": 4,
+          "read_count": 6,
+          "active_days": 2
         }
       ],
       "hot_themes": [
@@ -80,12 +75,17 @@
         },
         {
           "name": "系统",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "强制爱",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -95,16 +95,6 @@
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -119,11 +109,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 22,
-          "new_count": 1,
-          "dropped_count": 1,
-          "read_count": 3,
-          "active_days": 1
+          "score": 57,
+          "new_count": 4,
+          "dropped_count": 4,
+          "read_count": 6,
+          "active_days": 2
         }
       ],
       "hot_themes": [
@@ -134,12 +124,17 @@
         },
         {
           "name": "系统",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "强制爱",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -149,16 +144,6 @@
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -173,11 +158,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 22,
-          "new_count": 1,
-          "dropped_count": 1,
-          "read_count": 3,
-          "active_days": 1
+          "score": 57,
+          "new_count": 4,
+          "dropped_count": 4,
+          "read_count": 6,
+          "active_days": 2
         }
       ],
       "hot_themes": [
@@ -188,12 +173,17 @@
         },
         {
           "name": "系统",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "强制爱",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -203,16 +193,6 @@
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
