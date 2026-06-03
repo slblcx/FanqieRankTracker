@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-02",
-  "prev_date": "2026-06-01",
+  "date": "2026-06-03",
+  "prev_date": "2026-06-02",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,22 +11,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 57,
-          "new_count": 4,
-          "dropped_count": 4,
-          "read_count": 6,
-          "active_days": 2
+          "score": 86,
+          "new_count": 6,
+          "dropped_count": 6,
+          "read_count": 9,
+          "active_days": 3
         }
       ],
       "hot_themes": [
         {
-          "name": "种田",
-          "count": 9,
+          "name": "系统",
+          "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 7,
+          "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -35,12 +40,12 @@
           "category_count": 1
         },
         {
-          "name": "美食",
+          "name": "逃荒",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -60,22 +65,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 57,
-          "new_count": 4,
-          "dropped_count": 4,
-          "read_count": 6,
-          "active_days": 2
+          "score": 86,
+          "new_count": 6,
+          "dropped_count": 6,
+          "read_count": 9,
+          "active_days": 3
         }
       ],
       "hot_themes": [
         {
-          "name": "种田",
-          "count": 9,
+          "name": "系统",
+          "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 7,
+          "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -84,12 +94,12 @@
           "category_count": 1
         },
         {
-          "name": "美食",
+          "name": "逃荒",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -109,22 +119,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 57,
-          "new_count": 4,
-          "dropped_count": 4,
-          "read_count": 6,
-          "active_days": 2
+          "score": 86,
+          "new_count": 6,
+          "dropped_count": 6,
+          "read_count": 9,
+          "active_days": 3
         }
       ],
       "hot_themes": [
         {
-          "name": "种田",
-          "count": 9,
+          "name": "系统",
+          "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 7,
+          "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -133,12 +148,12 @@
           "category_count": 1
         },
         {
-          "name": "美食",
+          "name": "逃荒",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -158,22 +173,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 57,
-          "new_count": 4,
-          "dropped_count": 4,
-          "read_count": 6,
-          "active_days": 2
+          "score": 86,
+          "new_count": 6,
+          "dropped_count": 6,
+          "read_count": 9,
+          "active_days": 3
         }
       ],
       "hot_themes": [
         {
-          "name": "种田",
-          "count": 9,
+          "name": "系统",
+          "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 7,
+          "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -182,12 +202,12 @@
           "category_count": 1
         },
         {
-          "name": "美食",
+          "name": "逃荒",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "美食",
           "count": 1,
           "category_count": 1
         },
