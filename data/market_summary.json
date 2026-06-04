@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-03",
-  "prev_date": "2026-06-02",
+  "date": "2026-06-04",
+  "prev_date": "2026-06-03",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 86,
-          "new_count": 6,
-          "dropped_count": 6,
-          "read_count": 9,
-          "active_days": 3
+          "score": 108,
+          "new_count": 7,
+          "dropped_count": 7,
+          "read_count": 12,
+          "active_days": 4
         }
       ],
       "hot_themes": [
@@ -41,11 +41,6 @@
         },
         {
           "name": "逃荒",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -65,11 +60,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 86,
-          "new_count": 6,
-          "dropped_count": 6,
-          "read_count": 9,
-          "active_days": 3
+          "score": 108,
+          "new_count": 7,
+          "dropped_count": 7,
+          "read_count": 12,
+          "active_days": 4
         }
       ],
       "hot_themes": [
@@ -95,11 +90,6 @@
         },
         {
           "name": "逃荒",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -119,11 +109,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 86,
-          "new_count": 6,
-          "dropped_count": 6,
-          "read_count": 9,
-          "active_days": 3
+          "score": 108,
+          "new_count": 7,
+          "dropped_count": 7,
+          "read_count": 12,
+          "active_days": 4
         }
       ],
       "hot_themes": [
@@ -149,11 +139,6 @@
         },
         {
           "name": "逃荒",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -173,11 +158,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 86,
-          "new_count": 6,
-          "dropped_count": 6,
-          "read_count": 9,
-          "active_days": 3
+          "score": 108,
+          "new_count": 7,
+          "dropped_count": 7,
+          "read_count": 12,
+          "active_days": 4
         }
       ],
       "hot_themes": [
@@ -203,11 +188,6 @@
         },
         {
           "name": "逃荒",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "美食",
           "count": 1,
           "category_count": 1
         },
