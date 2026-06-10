@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-09",
-  "prev_date": "2026-06-08",
+  "date": "2026-06-10",
+  "prev_date": "2026-06-09",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 176,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 170,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
           "active_days": 7
         }
@@ -53,11 +53,6 @@
           "name": "双洁",
           "count": 1,
           "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -70,11 +65,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 232,
-          "new_count": 15,
-          "dropped_count": 15,
-          "read_count": 27,
-          "active_days": 9
+          "score": 255,
+          "new_count": 16,
+          "dropped_count": 16,
+          "read_count": 30,
+          "active_days": 10
         }
       ],
       "hot_themes": [
@@ -110,11 +105,6 @@
         },
         {
           "name": "双洁",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -129,11 +119,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 232,
-          "new_count": 15,
-          "dropped_count": 15,
-          "read_count": 27,
-          "active_days": 9
+          "score": 255,
+          "new_count": 16,
+          "dropped_count": 16,
+          "read_count": 30,
+          "active_days": 10
         }
       ],
       "hot_themes": [
@@ -169,11 +159,6 @@
         },
         {
           "name": "双洁",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -188,11 +173,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 232,
-          "new_count": 15,
-          "dropped_count": 15,
-          "read_count": 27,
-          "active_days": 9
+          "score": 255,
+          "new_count": 16,
+          "dropped_count": 16,
+          "read_count": 30,
+          "active_days": 10
         }
       ],
       "hot_themes": [
@@ -228,11 +213,6 @@
         },
         {
           "name": "双洁",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
