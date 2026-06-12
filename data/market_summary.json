@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-11",
-  "prev_date": "2026-06-10",
+  "date": "2026-06-12",
+  "prev_date": "2026-06-11",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,7 +11,7 @@
       "hot_types": [
         {
           "name": "",
-          "score": 170,
+          "score": 176,
           "new_count": 10,
           "dropped_count": 10,
           "read_count": 21,
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -37,11 +37,6 @@
         {
           "name": "强制爱",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -65,17 +60,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 278,
-          "new_count": 17,
-          "dropped_count": 17,
-          "read_count": 33,
-          "active_days": 11
+          "score": 312,
+          "new_count": 20,
+          "dropped_count": 20,
+          "read_count": 36,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -91,11 +86,6 @@
         {
           "name": "强制爱",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -119,17 +109,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 278,
-          "new_count": 17,
-          "dropped_count": 17,
-          "read_count": 33,
-          "active_days": 11
+          "score": 312,
+          "new_count": 20,
+          "dropped_count": 20,
+          "read_count": 36,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -145,11 +135,6 @@
         {
           "name": "强制爱",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -173,17 +158,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 278,
-          "new_count": 17,
-          "dropped_count": 17,
-          "read_count": 33,
-          "active_days": 11
+          "score": 312,
+          "new_count": 20,
+          "dropped_count": 20,
+          "read_count": 36,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -199,11 +184,6 @@
         {
           "name": "强制爱",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 2,
           "category_count": 1
         },
         {
