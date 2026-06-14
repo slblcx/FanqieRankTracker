@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-13",
-  "prev_date": "2026-06-12",
+  "date": "2026-06-14",
+  "prev_date": "2026-06-13",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,14 +11,19 @@
       "hot_types": [
         {
           "name": "",
-          "score": 188,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 194,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
           "active_days": 7
         }
       ],
       "hot_themes": [
+        {
+          "name": "反派",
+          "count": 6,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 5,
@@ -26,11 +31,6 @@
         },
         {
           "name": "系统",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 4,
           "category_count": 1
         },
@@ -47,11 +47,6 @@
         {
           "name": "青梅竹马",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -65,14 +60,19 @@
       "hot_types": [
         {
           "name": "",
-          "score": 340,
-          "new_count": 22,
-          "dropped_count": 22,
-          "read_count": 39,
-          "active_days": 13
+          "score": 375,
+          "new_count": 25,
+          "dropped_count": 25,
+          "read_count": 42,
+          "active_days": 14
         }
       ],
       "hot_themes": [
+        {
+          "name": "反派",
+          "count": 6,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 5,
@@ -80,11 +80,6 @@
         },
         {
           "name": "系统",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 4,
           "category_count": 1
         },
@@ -101,11 +96,6 @@
         {
           "name": "青梅竹马",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -119,14 +109,19 @@
       "hot_types": [
         {
           "name": "",
-          "score": 340,
-          "new_count": 22,
-          "dropped_count": 22,
-          "read_count": 39,
-          "active_days": 13
+          "score": 375,
+          "new_count": 25,
+          "dropped_count": 25,
+          "read_count": 42,
+          "active_days": 14
         }
       ],
       "hot_themes": [
+        {
+          "name": "反派",
+          "count": 6,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 5,
@@ -134,11 +129,6 @@
         },
         {
           "name": "系统",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 4,
           "category_count": 1
         },
@@ -155,11 +145,6 @@
         {
           "name": "青梅竹马",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -173,14 +158,19 @@
       "hot_types": [
         {
           "name": "",
-          "score": 340,
-          "new_count": 22,
-          "dropped_count": 22,
-          "read_count": 39,
-          "active_days": 13
+          "score": 375,
+          "new_count": 25,
+          "dropped_count": 25,
+          "read_count": 42,
+          "active_days": 14
         }
       ],
       "hot_themes": [
+        {
+          "name": "反派",
+          "count": 6,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 5,
@@ -188,11 +178,6 @@
         },
         {
           "name": "系统",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 4,
           "category_count": 1
         },
@@ -209,11 +194,6 @@
         {
           "name": "青梅竹马",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 1,
           "category_count": 1
         }
       ]
