@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-14",
-  "prev_date": "2026-06-13",
+  "date": "2026-06-15",
+  "prev_date": "2026-06-14",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 194,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 200,
+          "new_count": 14,
+          "dropped_count": 14,
           "read_count": 21,
           "active_days": 7
         }
@@ -46,7 +46,7 @@
         },
         {
           "name": "青梅竹马",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -60,9 +60,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 375,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 381,
+          "new_count": 26,
+          "dropped_count": 26,
           "read_count": 42,
           "active_days": 14
         }
@@ -95,7 +95,7 @@
         },
         {
           "name": "青梅竹马",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -109,11 +109,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 375,
-          "new_count": 25,
-          "dropped_count": 25,
-          "read_count": 42,
-          "active_days": 14
+          "score": 404,
+          "new_count": 27,
+          "dropped_count": 27,
+          "read_count": 45,
+          "active_days": 15
         }
       ],
       "hot_themes": [
@@ -144,7 +144,7 @@
         },
         {
           "name": "青梅竹马",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -158,11 +158,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 375,
-          "new_count": 25,
-          "dropped_count": 25,
-          "read_count": 42,
-          "active_days": 14
+          "score": 404,
+          "new_count": 27,
+          "dropped_count": 27,
+          "read_count": 45,
+          "active_days": 15
         }
       ],
       "hot_themes": [
@@ -193,7 +193,7 @@
         },
         {
           "name": "青梅竹马",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
