@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-16",
-  "prev_date": "2026-06-15",
+  "date": "2026-06-17",
+  "prev_date": "2026-06-16",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,27 +11,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 212,
-          "new_count": 16,
-          "dropped_count": 16,
+          "score": 218,
+          "new_count": 17,
+          "dropped_count": 17,
           "read_count": 21,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
+          "name": "种田",
+          "count": 7,
+          "category_count": 1
+        },
+        {
           "name": "反派",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 6,
-          "category_count": 1
-        },
-        {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -46,11 +46,6 @@
         },
         {
           "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -74,18 +69,18 @@
       ],
       "hot_themes": [
         {
+          "name": "种田",
+          "count": 7,
+          "category_count": 1
+        },
+        {
           "name": "反派",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 6,
-          "category_count": 1
-        },
-        {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -100,11 +95,6 @@
         },
         {
           "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -119,27 +109,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 444,
-          "new_count": 31,
-          "dropped_count": 31,
-          "read_count": 48,
-          "active_days": 16
+          "score": 472,
+          "new_count": 33,
+          "dropped_count": 33,
+          "read_count": 51,
+          "active_days": 17
         }
       ],
       "hot_themes": [
+        {
+          "name": "种田",
+          "count": 7,
+          "category_count": 1
+        },
         {
           "name": "反派",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 6,
-          "category_count": 1
-        },
-        {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -154,11 +144,6 @@
         },
         {
           "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
@@ -173,27 +158,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 444,
-          "new_count": 31,
-          "dropped_count": 31,
-          "read_count": 48,
-          "active_days": 16
+          "score": 472,
+          "new_count": 33,
+          "dropped_count": 33,
+          "read_count": 51,
+          "active_days": 17
         }
       ],
       "hot_themes": [
+        {
+          "name": "种田",
+          "count": 7,
+          "category_count": 1
+        },
         {
           "name": "反派",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 6,
-          "category_count": 1
-        },
-        {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -208,11 +193,6 @@
         },
         {
           "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "青梅竹马",
           "count": 1,
           "category_count": 1
         }
