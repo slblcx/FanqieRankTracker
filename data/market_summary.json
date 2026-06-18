@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-17",
-  "prev_date": "2026-06-16",
+  "date": "2026-06-18",
+  "prev_date": "2026-06-17",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 218,
-          "new_count": 17,
-          "dropped_count": 17,
+          "score": 224,
+          "new_count": 18,
+          "dropped_count": 18,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,17 +21,17 @@
       "hot_themes": [
         {
           "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 7,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 5,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -46,6 +46,11 @@
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -60,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 387,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 393,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 42,
           "active_days": 14
         }
@@ -70,17 +75,17 @@
       "hot_themes": [
         {
           "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 7,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 5,
           "category_count": 1
         },
         {
@@ -95,6 +100,11 @@
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -109,27 +119,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 472,
-          "new_count": 33,
-          "dropped_count": 33,
-          "read_count": 51,
-          "active_days": 17
+          "score": 501,
+          "new_count": 35,
+          "dropped_count": 35,
+          "read_count": 54,
+          "active_days": 18
         }
       ],
       "hot_themes": [
         {
           "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 7,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 5,
           "category_count": 1
         },
         {
@@ -146,6 +156,11 @@
           "name": "空间",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "远古",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -158,27 +173,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 472,
-          "new_count": 33,
-          "dropped_count": 33,
-          "read_count": 51,
-          "active_days": 17
+          "score": 501,
+          "new_count": 35,
+          "dropped_count": 35,
+          "read_count": 54,
+          "active_days": 18
         }
       ],
       "hot_themes": [
         {
           "name": "种田",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 7,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 5,
           "category_count": 1
         },
         {
@@ -193,6 +208,11 @@
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
