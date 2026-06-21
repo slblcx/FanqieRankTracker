@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-20",
-  "prev_date": "2026-06-19",
+  "date": "2026-06-21",
+  "prev_date": "2026-06-20",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -35,12 +35,12 @@
           "category_count": 1
         },
         {
-          "name": "强制爱",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "强制爱",
           "count": 2,
           "category_count": 1
         },
@@ -65,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 393,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 399,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 42,
           "active_days": 14
         }
@@ -75,12 +75,12 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -89,12 +89,12 @@
           "category_count": 1
         },
         {
-          "name": "强制爱",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "强制爱",
           "count": 2,
           "category_count": 1
         },
@@ -119,22 +119,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 546,
-          "new_count": 37,
-          "dropped_count": 37,
-          "read_count": 60,
-          "active_days": 20
+          "score": 580,
+          "new_count": 40,
+          "dropped_count": 40,
+          "read_count": 63,
+          "active_days": 21
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -143,12 +143,12 @@
           "category_count": 1
         },
         {
-          "name": "强制爱",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "强制爱",
           "count": 2,
           "category_count": 1
         },
@@ -173,22 +173,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 546,
-          "new_count": 37,
-          "dropped_count": 37,
-          "read_count": 60,
-          "active_days": 20
+          "score": 580,
+          "new_count": 40,
+          "dropped_count": 40,
+          "read_count": 63,
+          "active_days": 21
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -197,12 +197,12 @@
           "category_count": 1
         },
         {
-          "name": "强制爱",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "强制爱",
           "count": 2,
           "category_count": 1
         },
