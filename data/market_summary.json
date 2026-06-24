@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-23",
-  "prev_date": "2026-06-22",
+  "date": "2026-06-24",
+  "prev_date": "2026-06-23",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 188,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 182,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
           "active_days": 7
         }
@@ -129,11 +129,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 632,
-          "new_count": 43,
-          "dropped_count": 43,
-          "read_count": 69,
-          "active_days": 23
+          "score": 654,
+          "new_count": 44,
+          "dropped_count": 44,
+          "read_count": 72,
+          "active_days": 24
         }
       ],
       "hot_themes": [
@@ -188,11 +188,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 632,
-          "new_count": 43,
-          "dropped_count": 43,
-          "read_count": 69,
-          "active_days": 23
+          "score": 654,
+          "new_count": 44,
+          "dropped_count": 44,
+          "read_count": 72,
+          "active_days": 24
         }
       ],
       "hot_themes": [
