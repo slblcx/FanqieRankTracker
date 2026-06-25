@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-24",
-  "prev_date": "2026-06-23",
+  "date": "2026-06-25",
+  "prev_date": "2026-06-24",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -25,12 +25,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 4,
+          "name": "反派",
+          "count": 3,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "种田",
           "count": 3,
           "category_count": 1
         },
@@ -40,17 +40,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "强制爱",
+          "name": "重生",
           "count": 1,
           "category_count": 1
         },
@@ -70,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 399,
-          "new_count": 28,
-          "dropped_count": 28,
+          "score": 405,
+          "new_count": 29,
+          "dropped_count": 29,
           "read_count": 42,
           "active_days": 14
         }
@@ -85,12 +80,12 @@
         },
         {
           "name": "反派",
-          "count": 7,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -99,17 +94,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "强制爱",
+          "name": "重生",
           "count": 1,
           "category_count": 1
         },
@@ -129,11 +119,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 654,
-          "new_count": 44,
-          "dropped_count": 44,
-          "read_count": 72,
-          "active_days": 24
+          "score": 682,
+          "new_count": 46,
+          "dropped_count": 46,
+          "read_count": 75,
+          "active_days": 25
         }
       ],
       "hot_themes": [
@@ -149,7 +139,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -158,17 +148,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "强制爱",
+          "name": "重生",
           "count": 1,
           "category_count": 1
         },
@@ -188,11 +173,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 654,
-          "new_count": 44,
-          "dropped_count": 44,
-          "read_count": 72,
-          "active_days": 24
+          "score": 682,
+          "new_count": 46,
+          "dropped_count": 46,
+          "read_count": 75,
+          "active_days": 25
         }
       ],
       "hot_themes": [
@@ -208,7 +193,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -217,17 +202,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "强制爱",
+          "name": "重生",
           "count": 1,
           "category_count": 1
         },
