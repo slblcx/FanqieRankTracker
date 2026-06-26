@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-25",
-  "prev_date": "2026-06-24",
+  "date": "2026-06-26",
+  "prev_date": "2026-06-25",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 182,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 176,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,16 +21,16 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 3,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "种田",
+          "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
           "count": 3,
           "category_count": 1
         },
@@ -65,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 405,
-          "new_count": 29,
-          "dropped_count": 29,
+          "score": 393,
+          "new_count": 27,
+          "dropped_count": 27,
           "read_count": 42,
           "active_days": 14
         }
@@ -75,7 +75,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -85,7 +85,7 @@
         },
         {
           "name": "种田",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -119,17 +119,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 682,
-          "new_count": 46,
-          "dropped_count": 46,
-          "read_count": 75,
-          "active_days": 25
+          "score": 705,
+          "new_count": 47,
+          "dropped_count": 47,
+          "read_count": 78,
+          "active_days": 26
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -139,7 +139,7 @@
         },
         {
           "name": "种田",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -173,17 +173,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 682,
-          "new_count": 46,
-          "dropped_count": 46,
-          "read_count": 75,
-          "active_days": 25
+          "score": 705,
+          "new_count": 47,
+          "dropped_count": 47,
+          "read_count": 78,
+          "active_days": 26
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -193,7 +193,7 @@
         },
         {
           "name": "种田",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
