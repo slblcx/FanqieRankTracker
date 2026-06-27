@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-26",
-  "prev_date": "2026-06-25",
+  "date": "2026-06-27",
+  "prev_date": "2026-06-26",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 176,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 194,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
           "active_days": 7
         }
@@ -25,12 +25,17 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 4,
+          "category_count": 1
+        },
+        {
           "name": "种田",
           "count": 4,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "重生",
           "count": 3,
           "category_count": 1
         },
@@ -42,11 +47,6 @@
         {
           "name": "幼崽",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -65,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 393,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 399,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 42,
           "active_days": 14
         }
@@ -80,12 +80,17 @@
         },
         {
           "name": "反派",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "种田",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -96,11 +101,6 @@
         {
           "name": "幼崽",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -119,11 +119,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 705,
-          "new_count": 47,
-          "dropped_count": 47,
-          "read_count": 78,
-          "active_days": 26
+          "score": 740,
+          "new_count": 50,
+          "dropped_count": 50,
+          "read_count": 81,
+          "active_days": 27
         }
       ],
       "hot_themes": [
@@ -134,12 +134,17 @@
         },
         {
           "name": "反派",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "种田",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -150,11 +155,6 @@
         {
           "name": "幼崽",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -173,11 +173,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 705,
-          "new_count": 47,
-          "dropped_count": 47,
-          "read_count": 78,
-          "active_days": 26
+          "score": 740,
+          "new_count": 50,
+          "dropped_count": 50,
+          "read_count": 81,
+          "active_days": 27
         }
       ],
       "hot_themes": [
@@ -188,12 +188,17 @@
         },
         {
           "name": "反派",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "种田",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -204,11 +209,6 @@
         {
           "name": "幼崽",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
           "category_count": 1
         },
         {
