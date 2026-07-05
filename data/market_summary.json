@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-04",
-  "prev_date": "2026-07-03",
+  "date": "2026-07-05",
+  "prev_date": "2026-07-04",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,17 +21,22 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 13,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "空间",
           "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -46,6 +51,11 @@
         },
         {
           "name": "种田",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -60,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 411,
-          "new_count": 30,
-          "dropped_count": 30,
+          "score": 429,
+          "new_count": 33,
+          "dropped_count": 33,
           "read_count": 42,
           "active_days": 14
         }
@@ -70,17 +80,22 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 13,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "空间",
           "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -95,6 +110,11 @@
         },
         {
           "name": "种田",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -109,27 +129,32 @@
       "hot_types": [
         {
           "name": "",
-          "score": 855,
-          "new_count": 61,
-          "dropped_count": 61,
+          "score": 867,
+          "new_count": 63,
+          "dropped_count": 63,
           "read_count": 90,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
-          "name": "反派",
+          "name": "系统",
           "count": 13,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 11,
+          "name": "反派",
+          "count": 12,
           "category_count": 1
         },
         {
           "name": "空间",
           "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -144,6 +169,11 @@
         },
         {
           "name": "种田",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -158,27 +188,32 @@
       "hot_types": [
         {
           "name": "",
-          "score": 940,
-          "new_count": 67,
-          "dropped_count": 67,
-          "read_count": 99,
-          "active_days": 33
+          "score": 975,
+          "new_count": 70,
+          "dropped_count": 70,
+          "read_count": 102,
+          "active_days": 34
         }
       ],
       "hot_themes": [
         {
-          "name": "反派",
+          "name": "系统",
           "count": 13,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 11,
+          "name": "反派",
+          "count": 12,
           "category_count": 1
         },
         {
           "name": "空间",
           "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -193,6 +228,11 @@
         },
         {
           "name": "种田",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
