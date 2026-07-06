@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-05",
-  "prev_date": "2026-07-04",
+  "date": "2026-07-06",
+  "prev_date": "2026-07-05",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,11 +21,16 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 8,
           "category_count": 1
         },
@@ -40,18 +45,13 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 4,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         },
         {
@@ -70,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 429,
-          "new_count": 33,
-          "dropped_count": 33,
+          "score": 423,
+          "new_count": 32,
+          "dropped_count": 32,
           "read_count": 42,
           "active_days": 14
         }
@@ -80,11 +80,16 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 8,
           "category_count": 1
         },
@@ -99,18 +104,13 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 4,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         },
         {
@@ -130,8 +130,8 @@
         {
           "name": "",
           "score": 867,
-          "new_count": 63,
-          "dropped_count": 63,
+          "new_count": 62,
+          "dropped_count": 62,
           "read_count": 90,
           "active_days": 30
         }
@@ -139,12 +139,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 12,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -158,18 +163,13 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 4,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         },
         {
@@ -188,22 +188,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 975,
-          "new_count": 70,
-          "dropped_count": 70,
-          "read_count": 102,
-          "active_days": 34
+          "score": 1004,
+          "new_count": 72,
+          "dropped_count": 72,
+          "read_count": 105,
+          "active_days": 35
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 12,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -217,18 +222,13 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 4,
-          "category_count": 1
-        },
-        {
           "name": "幼崽",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         },
         {
