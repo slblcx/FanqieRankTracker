@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-07",
-  "prev_date": "2026-07-06",
+  "date": "2026-07-08",
+  "prev_date": "2026-07-07",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 240,
-          "new_count": 21,
-          "dropped_count": 21,
+          "score": 232,
+          "new_count": 20,
+          "dropped_count": 20,
           "read_count": 21,
           "active_days": 7
         }
@@ -25,13 +25,13 @@
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "修仙",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 8,
+          "name": "反派",
+          "count": 7,
           "category_count": 1
         },
         {
@@ -75,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 433,
-          "new_count": 34,
-          "dropped_count": 34,
+          "score": 425,
+          "new_count": 33,
+          "dropped_count": 33,
           "read_count": 42,
           "active_days": 14
         }
@@ -89,13 +89,13 @@
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "修仙",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 8,
+          "name": "反派",
+          "count": 7,
           "category_count": 1
         },
         {
@@ -139,9 +139,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 883,
-          "new_count": 65,
-          "dropped_count": 65,
+          "score": 875,
+          "new_count": 64,
+          "dropped_count": 64,
           "read_count": 90,
           "active_days": 30
         }
@@ -154,7 +154,7 @@
         },
         {
           "name": "反派",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -203,11 +203,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1036,
-          "new_count": 75,
-          "dropped_count": 75,
-          "read_count": 108,
-          "active_days": 36
+          "score": 1056,
+          "new_count": 76,
+          "dropped_count": 76,
+          "read_count": 111,
+          "active_days": 37
         }
       ],
       "hot_themes": [
@@ -218,7 +218,7 @@
         },
         {
           "name": "反派",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
