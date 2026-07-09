@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-08",
-  "prev_date": "2026-07-07",
+  "date": "2026-07-09",
+  "prev_date": "2026-07-08",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 232,
-          "new_count": 20,
-          "dropped_count": 20,
+          "score": 220,
+          "new_count": 18,
+          "dropped_count": 18,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -56,7 +56,7 @@
         },
         {
           "name": "天灾",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -85,17 +85,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 14,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "修仙",
           "count": 8,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 7,
           "category_count": 1
         },
         {
@@ -120,7 +120,7 @@
         },
         {
           "name": "天灾",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -149,12 +149,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -184,7 +184,7 @@
         },
         {
           "name": "天灾",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -203,22 +203,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1056,
-          "new_count": 76,
-          "dropped_count": 76,
-          "read_count": 111,
-          "active_days": 37
+          "score": 1079,
+          "new_count": 77,
+          "dropped_count": 77,
+          "read_count": 114,
+          "active_days": 38
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -248,7 +248,7 @@
         },
         {
           "name": "天灾",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
