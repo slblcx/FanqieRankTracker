@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-09",
-  "prev_date": "2026-07-08",
+  "date": "2026-07-10",
+  "prev_date": "2026-07-09",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 220,
-          "new_count": 18,
-          "dropped_count": 18,
+          "score": 196,
+          "new_count": 14,
+          "dropped_count": 14,
           "read_count": 21,
           "active_days": 7
         }
@@ -25,23 +25,23 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 8,
-          "category_count": 1
-        },
-        {
           "name": "反派",
           "count": 7,
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 6,
+          "name": "修仙",
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "重生",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -75,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 425,
-          "new_count": 33,
-          "dropped_count": 33,
+          "score": 419,
+          "new_count": 32,
+          "dropped_count": 32,
           "read_count": 42,
           "active_days": 14
         }
@@ -139,9 +139,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 875,
-          "new_count": 64,
-          "dropped_count": 64,
+          "score": 869,
+          "new_count": 63,
+          "dropped_count": 63,
           "read_count": 90,
           "active_days": 30
         }
@@ -203,11 +203,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1079,
-          "new_count": 77,
-          "dropped_count": 77,
-          "read_count": 114,
-          "active_days": 38
+          "score": 1102,
+          "new_count": 78,
+          "dropped_count": 78,
+          "read_count": 117,
+          "active_days": 39
         }
       ],
       "hot_themes": [
