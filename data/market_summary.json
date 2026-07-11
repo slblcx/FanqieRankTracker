@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "prev_date": "2026-07-09",
+  "date": "2026-07-11",
+  "prev_date": "2026-07-10",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 196,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 184,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,21 +21,21 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "修仙",
-          "count": 5,
+          "count": 15,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 4,
           "category_count": 1
         },
@@ -61,7 +61,7 @@
         },
         {
           "name": "远古",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
@@ -85,7 +85,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
+          "count": 15,
           "category_count": 1
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "name": "远古",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
@@ -149,7 +149,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
+          "count": 15,
           "category_count": 1
         },
         {
@@ -189,7 +189,7 @@
         },
         {
           "name": "远古",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
@@ -203,17 +203,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1102,
-          "new_count": 78,
-          "dropped_count": 78,
-          "read_count": 117,
-          "active_days": 39
+          "score": 1124,
+          "new_count": 79,
+          "dropped_count": 79,
+          "read_count": 120,
+          "active_days": 40
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
+          "count": 15,
           "category_count": 1
         },
         {
@@ -253,7 +253,7 @@
         },
         {
           "name": "远古",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
