@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13",
-  "prev_date": "2026-07-12",
+  "date": "2026-07-14",
+  "prev_date": "2026-07-13",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 172,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 168,
+          "new_count": 9,
+          "dropped_count": 9,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -58,11 +58,6 @@
           "name": "天灾",
           "count": 1,
           "category_count": 1
-        },
-        {
-          "name": "修仙",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -85,7 +80,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 16,
+          "count": 15,
           "category_count": 1
         },
         {
@@ -149,7 +144,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 16,
+          "count": 15,
           "category_count": 1
         },
         {
@@ -203,17 +198,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1175,
-          "new_count": 82,
-          "dropped_count": 82,
-          "read_count": 126,
-          "active_days": 42
+          "score": 1204,
+          "new_count": 84,
+          "dropped_count": 84,
+          "read_count": 129,
+          "active_days": 43
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 16,
+          "count": 15,
           "category_count": 1
         },
         {
