@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-14",
-  "prev_date": "2026-07-13",
+  "date": "2026-07-15",
+  "prev_date": "2026-07-14",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 168,
-          "new_count": 9,
-          "dropped_count": 9,
+          "score": 176,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,12 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 4,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -40,8 +35,8 @@
           "category_count": 1
         },
         {
-          "name": "幼崽",
-          "count": 2,
+          "name": "种田",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -51,6 +46,11 @@
         },
         {
           "name": "重生",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
           "count": 1,
           "category_count": 1
         },
@@ -80,7 +80,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -105,17 +105,17 @@
         },
         {
           "name": "种田",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -134,9 +134,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 863,
-          "new_count": 62,
-          "dropped_count": 62,
+          "score": 857,
+          "new_count": 61,
+          "dropped_count": 61,
           "read_count": 90,
           "active_days": 30
         }
@@ -144,12 +144,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -169,17 +169,17 @@
         },
         {
           "name": "种田",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -198,17 +198,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1204,
-          "new_count": 84,
-          "dropped_count": 84,
-          "read_count": 129,
-          "active_days": 43
+          "score": 1232,
+          "new_count": 86,
+          "dropped_count": 86,
+          "read_count": 132,
+          "active_days": 44
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -233,17 +233,17 @@
         },
         {
           "name": "种田",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
+          "count": 1,
           "category_count": 1
         },
         {
