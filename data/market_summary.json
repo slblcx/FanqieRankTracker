@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-15",
-  "prev_date": "2026-07-14",
+  "date": "2026-07-16",
+  "prev_date": "2026-07-15",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -51,6 +51,11 @@
         },
         {
           "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "追妻",
           "count": 1,
           "category_count": 1
         },
@@ -70,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 407,
-          "new_count": 30,
-          "dropped_count": 30,
+          "score": 395,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 42,
           "active_days": 14
         }
@@ -80,17 +85,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 8,
+          "count": 13,
           "category_count": 1
         },
         {
           "name": "修仙",
           "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 7,
           "category_count": 1
         },
         {
@@ -115,6 +120,11 @@
         },
         {
           "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "追妻",
           "count": 1,
           "category_count": 1
         },
@@ -134,9 +144,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 857,
-          "new_count": 61,
-          "dropped_count": 61,
+          "score": 851,
+          "new_count": 60,
+          "dropped_count": 60,
           "read_count": 90,
           "active_days": 30
         }
@@ -144,7 +154,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -183,6 +193,11 @@
           "category_count": 1
         },
         {
+          "name": "追妻",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "天灾",
           "count": 1,
           "category_count": 1
@@ -198,17 +213,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1232,
-          "new_count": 86,
-          "dropped_count": 86,
-          "read_count": 132,
-          "active_days": 44
+          "score": 1254,
+          "new_count": 87,
+          "dropped_count": 87,
+          "read_count": 135,
+          "active_days": 45
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -243,6 +258,11 @@
         },
         {
           "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "追妻",
           "count": 1,
           "category_count": 1
         },
