@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-19",
-  "prev_date": "2026-07-18",
+  "date": "2026-07-20",
+  "prev_date": "2026-07-19",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 168,
-          "new_count": 9,
-          "dropped_count": 9,
+          "score": 186,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -32,11 +32,6 @@
         {
           "name": "反派",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -65,9 +60,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 351,
-          "new_count": 21,
-          "dropped_count": 21,
+          "score": 357,
+          "new_count": 22,
+          "dropped_count": 22,
           "read_count": 42,
           "active_days": 14
         }
@@ -81,16 +76,6 @@
         {
           "name": "种田",
           "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "修仙",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 3,
           "category_count": 1
         },
         {
@@ -109,12 +94,22 @@
           "category_count": 1
         },
         {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "幼崽",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "追妻",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         }
@@ -129,9 +124,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 825,
-          "new_count": 56,
-          "dropped_count": 56,
+          "score": 831,
+          "new_count": 57,
+          "dropped_count": 57,
           "read_count": 90,
           "active_days": 30
         }
@@ -139,7 +134,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -153,12 +148,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 6,
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "空间",
           "count": 4,
           "category_count": 1
         },
@@ -193,17 +188,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1326,
-          "new_count": 91,
-          "dropped_count": 91,
-          "read_count": 144,
-          "active_days": 48
+          "score": 1360,
+          "new_count": 94,
+          "dropped_count": 94,
+          "read_count": 147,
+          "active_days": 49
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -217,12 +212,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 6,
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "空间",
           "count": 4,
           "category_count": 1
         },
