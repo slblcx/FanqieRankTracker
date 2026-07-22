@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-21",
-  "prev_date": "2026-07-20",
+  "date": "2026-07-22",
+  "prev_date": "2026-07-21",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 192,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 184,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,12 +21,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -37,11 +37,6 @@
         {
           "name": "远古",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "追妻",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -65,12 +60,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -90,11 +85,6 @@
         },
         {
           "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "追妻",
           "count": 1,
           "category_count": 1
         }
@@ -109,9 +99,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 849,
-          "new_count": 60,
-          "dropped_count": 60,
+          "score": 835,
+          "new_count": 58,
+          "dropped_count": 58,
           "read_count": 90,
           "active_days": 30
         }
@@ -119,7 +109,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -134,7 +124,7 @@
         },
         {
           "name": "种田",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -151,11 +141,6 @@
           "name": "远古",
           "count": 2,
           "category_count": 1
-        },
-        {
-          "name": "追妻",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -168,17 +153,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1395,
-          "new_count": 97,
-          "dropped_count": 97,
-          "read_count": 150,
-          "active_days": 50
+          "score": 1416,
+          "new_count": 98,
+          "dropped_count": 98,
+          "read_count": 153,
+          "active_days": 51
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -193,7 +178,7 @@
         },
         {
           "name": "种田",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -209,11 +194,6 @@
         {
           "name": "远古",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "追妻",
-          "count": 1,
           "category_count": 1
         }
       ]
