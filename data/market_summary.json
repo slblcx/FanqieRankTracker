@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-24",
-  "prev_date": "2026-07-23",
+  "date": "2026-07-25",
+  "prev_date": "2026-07-24",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,7 +11,7 @@
       "hot_types": [
         {
           "name": "",
-          "score": 188,
+          "score": 190,
           "new_count": 13,
           "dropped_count": 12,
           "read_count": 21,
@@ -26,7 +26,7 @@
         },
         {
           "name": "种田",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -70,7 +70,7 @@
         },
         {
           "name": "种田",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -134,7 +134,7 @@
         },
         {
           "name": "种田",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -168,11 +168,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1460,
-          "new_count": 100,
-          "dropped_count": 100,
-          "read_count": 159,
-          "active_days": 53
+          "score": 1483,
+          "new_count": 101,
+          "dropped_count": 101,
+          "read_count": 162,
+          "active_days": 54
         }
       ],
       "hot_themes": [
@@ -193,7 +193,7 @@
         },
         {
           "name": "种田",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
