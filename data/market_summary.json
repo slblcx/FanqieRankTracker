@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-25",
-  "prev_date": "2026-07-24",
+  "date": "2026-07-26",
+  "prev_date": "2026-07-25",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,8 +11,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 190,
-          "new_count": 13,
+          "score": 186,
+          "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
@@ -26,7 +26,7 @@
         },
         {
           "name": "种田",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -55,9 +55,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 359,
-          "new_count": 22,
-          "dropped_count": 22,
+          "score": 353,
+          "new_count": 21,
+          "dropped_count": 21,
           "read_count": 42,
           "active_days": 14
         }
@@ -70,7 +70,7 @@
         },
         {
           "name": "种田",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -81,16 +81,6 @@
         {
           "name": "远古",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -134,7 +124,7 @@
         },
         {
           "name": "种田",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -168,11 +158,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1483,
-          "new_count": 101,
-          "dropped_count": 101,
-          "read_count": 162,
-          "active_days": 54
+          "score": 1512,
+          "new_count": 103,
+          "dropped_count": 103,
+          "read_count": 165,
+          "active_days": 55
         }
       ],
       "hot_themes": [
@@ -193,7 +183,7 @@
         },
         {
           "name": "种田",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
