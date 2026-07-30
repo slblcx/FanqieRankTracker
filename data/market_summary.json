@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "prev_date": "2026-07-28",
+  "date": "2026-07-30",
+  "prev_date": "2026-07-29",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,32 +11,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 182,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 200,
+          "new_count": 14,
+          "dropped_count": 14,
           "read_count": 21,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
-          "name": "系统",
-          "count": 7,
+          "name": "种田",
+          "count": 8,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "系统",
           "count": 6,
           "category_count": 1
         },
         {
           "name": "天灾",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -55,32 +50,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 365,
-          "new_count": 23,
-          "dropped_count": 23,
+          "score": 377,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 42,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
-          "name": "系统",
-          "count": 7,
+          "name": "种田",
+          "count": 8,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "系统",
           "count": 6,
           "category_count": 1
         },
         {
           "name": "天灾",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -99,9 +89,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 829,
-          "new_count": 57,
-          "dropped_count": 57,
+          "score": 835,
+          "new_count": 58,
+          "dropped_count": 58,
           "read_count": 90,
           "active_days": 30
         }
@@ -109,7 +99,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -119,11 +114,6 @@
         },
         {
           "name": "反派",
-          "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 6,
           "category_count": 1
         },
@@ -140,11 +130,6 @@
         {
           "name": "天灾",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -158,17 +143,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1597,
-          "new_count": 109,
-          "dropped_count": 109,
-          "read_count": 174,
-          "active_days": 58
+          "score": 1632,
+          "new_count": 112,
+          "dropped_count": 112,
+          "read_count": 177,
+          "active_days": 59
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -177,13 +162,13 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
+          "name": "种田",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 6,
+          "name": "修仙",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -199,11 +184,6 @@
         {
           "name": "天灾",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 1,
           "category_count": 1
         }
       ]
