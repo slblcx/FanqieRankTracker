@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-30",
-  "prev_date": "2026-07-29",
+  "date": "2026-07-31",
+  "prev_date": "2026-07-30",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 200,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 194,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
           "active_days": 7
         }
@@ -26,7 +26,7 @@
         },
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -50,8 +50,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 377,
-          "new_count": 25,
+          "score": 381,
+          "new_count": 26,
           "dropped_count": 25,
           "read_count": 42,
           "active_days": 14
@@ -65,7 +65,7 @@
         },
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -89,9 +89,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 835,
-          "new_count": 58,
-          "dropped_count": 58,
+          "score": 829,
+          "new_count": 57,
+          "dropped_count": 57,
           "read_count": 90,
           "active_days": 30
         }
@@ -99,7 +99,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -143,17 +143,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1632,
-          "new_count": 112,
-          "dropped_count": 112,
-          "read_count": 177,
-          "active_days": 59
+          "score": 1654,
+          "new_count": 113,
+          "dropped_count": 113,
+          "read_count": 180,
+          "active_days": 60
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
