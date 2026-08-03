@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-02",
-  "prev_date": "2026-08-01",
+  "date": "2026-08-03",
+  "prev_date": "2026-08-02",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -20,17 +20,17 @@
       ],
       "hot_themes": [
         {
+          "name": "天灾",
+          "count": 8,
+          "category_count": 1
+        },
+        {
           "name": "系统",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
           "count": 6,
           "category_count": 1
         },
@@ -55,26 +55,26 @@
       "hot_types": [
         {
           "name": "",
-          "score": 370,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 364,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 39,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
+          "name": "天灾",
+          "count": 8,
+          "category_count": 1
+        },
+        {
           "name": "系统",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
           "count": 6,
           "category_count": 1
         },
@@ -99,9 +99,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 790,
-          "new_count": 53,
-          "dropped_count": 53,
+          "score": 784,
+          "new_count": 52,
+          "dropped_count": 52,
           "read_count": 87,
           "active_days": 30
         }
@@ -109,27 +109,22 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 9,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 7,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "天灾",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 5,
+          "name": "种田",
+          "count": 6,
           "category_count": 1
         },
         {
@@ -139,6 +134,11 @@
         },
         {
           "name": "穿书",
+          "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 4,
           "category_count": 1
         },
@@ -158,11 +158,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1696,
-          "new_count": 117,
-          "dropped_count": 117,
-          "read_count": 183,
-          "active_days": 62
+          "score": 1724,
+          "new_count": 119,
+          "dropped_count": 119,
+          "read_count": 186,
+          "active_days": 63
         }
       ],
       "hot_themes": [
@@ -173,7 +173,12 @@
         },
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -183,11 +188,6 @@
         },
         {
           "name": "种田",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
           "count": 6,
           "category_count": 1
         },
