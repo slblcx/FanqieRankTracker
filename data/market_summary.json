@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-03",
-  "prev_date": "2026-08-02",
+  "date": "2026-08-04",
+  "prev_date": "2026-08-03",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,12 +21,17 @@
       "hot_themes": [
         {
           "name": "天灾",
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 6,
+          "name": "反派",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -35,13 +40,8 @@
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "系统",
           "count": 5,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 4,
           "category_count": 1
         }
       ]
@@ -55,9 +55,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 364,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 358,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 39,
           "active_days": 14
         }
@@ -65,12 +65,17 @@
       "hot_themes": [
         {
           "name": "天灾",
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 6,
+          "name": "反派",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -79,13 +84,8 @@
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "系统",
           "count": 5,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 4,
           "category_count": 1
         }
       ]
@@ -99,26 +99,31 @@
       "hot_types": [
         {
           "name": "",
-          "score": 784,
-          "new_count": 52,
-          "dropped_count": 52,
+          "score": 778,
+          "new_count": 51,
+          "dropped_count": 51,
           "read_count": 87,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
-          "name": "系统",
-          "count": 10,
+          "name": "天灾",
+          "count": 9,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "穿书",
           "count": 8,
           "category_count": 1
         },
         {
           "name": "反派",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
           "count": 6,
           "category_count": 1
         },
@@ -128,18 +133,13 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 4,
-          "category_count": 1
-        },
-        {
           "name": "修仙",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -158,26 +158,31 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1724,
-          "new_count": 119,
-          "dropped_count": 119,
-          "read_count": 186,
-          "active_days": 63
+          "score": 1753,
+          "new_count": 121,
+          "dropped_count": 121,
+          "read_count": 189,
+          "active_days": 64
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 14,
+          "count": 17,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "天灾",
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
           "count": 8,
           "category_count": 1
         },
@@ -193,11 +198,6 @@
         },
         {
           "name": "重生",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
           "count": 4,
           "category_count": 1
         },
