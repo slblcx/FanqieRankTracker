@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-04",
-  "prev_date": "2026-08-03",
+  "date": "2026-08-05",
+  "prev_date": "2026-08-04",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 184,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 178,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 18,
           "active_days": 7
         }
@@ -55,7 +55,7 @@
       "hot_types": [
         {
           "name": "",
-          "score": 358,
+          "score": 360,
           "new_count": 24,
           "dropped_count": 24,
           "read_count": 39,
@@ -99,9 +99,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 778,
-          "new_count": 51,
-          "dropped_count": 51,
+          "score": 772,
+          "new_count": 50,
+          "dropped_count": 50,
           "read_count": 87,
           "active_days": 30
         }
@@ -123,18 +123,13 @@
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 6,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 4,
+          "name": "系统",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -144,6 +139,11 @@
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         }
@@ -158,11 +158,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1753,
-          "new_count": 121,
-          "dropped_count": 121,
-          "read_count": 189,
-          "active_days": 64
+          "score": 1776,
+          "new_count": 122,
+          "dropped_count": 122,
+          "read_count": 192,
+          "active_days": 65
         }
       ],
       "hot_themes": [
