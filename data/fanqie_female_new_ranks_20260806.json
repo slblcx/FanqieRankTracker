@@ -1,59 +1,8 @@
 {
-  "type": "all",
   "date": "2026-08-06",
-  "prev_date": "2026-08-05",
   "categories": [
     {
       "name": "",
-      "trend": {
-        "new_count": 0,
-        "dropped_count": 0,
-        "new_books": [],
-        "dropped_books": [],
-        "top_risers": [
-          {
-            "title": "人在诡异，靠第四天灾登顶至高",
-            "change": "+4"
-          },
-          {
-            "title": "领主：从猎人卡开始",
-            "change": "+2"
-          },
-          {
-            "title": "干翻中世纪，从纯情治安官开始",
-            "change": "+2"
-          }
-        ],
-        "top_fallers": [
-          {
-            "title": "恶役领主只想洗白上岸",
-            "change": "-1"
-          },
-          {
-            "title": "夫人：你疯了吧？你管这叫叠装备",
-            "change": "-1"
-          },
-          {
-            "title": "这个恶龙不一样，丰饶巨龙！！！",
-            "change": "-1"
-          }
-        ],
-        "reads_growth": [
-          {
-            "title": "领主：从猎人卡开始",
-            "growth": "+8000"
-          },
-          {
-            "title": "穿书成为反派，发现剧情早就崩了",
-            "growth": "+2000"
-          },
-          {
-            "title": "开局被魅魔收养，异世界尽情攻略",
-            "growth": "+1000"
-          }
-        ],
-        "summary": "《人在诡异，靠第四天灾登顶至高》排名上升+4位；《领主：从猎人卡开始》阅读量+8000。"
-      },
       "books": [
         {
           "title": "魔王叫我小同志，那就是世界错了",
