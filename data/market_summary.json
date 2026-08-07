@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-06",
-  "prev_date": "2026-08-05",
+  "date": "2026-08-07",
+  "prev_date": "2026-08-06",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -36,7 +36,7 @@
         },
         {
           "name": "种田",
-          "count": 6,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -55,9 +55,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 360,
-          "new_count": 24,
-          "dropped_count": 24,
+          "score": 354,
+          "new_count": 23,
+          "dropped_count": 23,
           "read_count": 39,
           "active_days": 14
         }
@@ -80,7 +80,7 @@
         },
         {
           "name": "种田",
-          "count": 6,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -99,7 +99,7 @@
       "hot_types": [
         {
           "name": "",
-          "score": 756,
+          "score": 758,
           "new_count": 47,
           "dropped_count": 47,
           "read_count": 87,
@@ -124,7 +124,7 @@
         },
         {
           "name": "种田",
-          "count": 6,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -153,11 +153,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1792,
-          "new_count": 122,
-          "dropped_count": 122,
-          "read_count": 195,
-          "active_days": 66
+          "score": 1814,
+          "new_count": 123,
+          "dropped_count": 123,
+          "read_count": 198,
+          "active_days": 67
         }
       ],
       "hot_themes": [
@@ -182,13 +182,13 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
+          "name": "种田",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 6,
+          "name": "修仙",
+          "count": 8,
           "category_count": 1
         },
         {
