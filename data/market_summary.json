@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-12",
-  "prev_date": "2026-08-11",
+  "date": "2026-08-13",
+  "prev_date": "2026-08-12",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 176,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 182,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
           "active_days": 7
         }
@@ -30,18 +30,23 @@
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 5,
+          "name": "反派",
+          "count": 6,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "系统",
           "count": 5,
           "category_count": 1
         },
         {
           "name": "直播",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -60,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 354,
-          "new_count": 23,
-          "dropped_count": 23,
+          "score": 342,
+          "new_count": 21,
+          "dropped_count": 21,
           "read_count": 39,
           "active_days": 14
         }
@@ -70,12 +75,12 @@
       "hot_themes": [
         {
           "name": "天灾",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 12,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -96,6 +101,11 @@
         {
           "name": "直播",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -109,9 +119,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 776,
-          "new_count": 50,
-          "dropped_count": 50,
+          "score": 770,
+          "new_count": 49,
+          "dropped_count": 49,
           "read_count": 87,
           "active_days": 30
         }
@@ -119,12 +129,12 @@
       "hot_themes": [
         {
           "name": "天灾",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 12,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -146,6 +156,11 @@
           "name": "直播",
           "count": 4,
           "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -158,22 +173,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1951,
-          "new_count": 132,
-          "dropped_count": 132,
-          "read_count": 213,
-          "active_days": 72
+          "score": 1974,
+          "new_count": 133,
+          "dropped_count": 133,
+          "read_count": 216,
+          "active_days": 73
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 21,
+          "count": 22,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -198,7 +213,7 @@
         },
         {
           "name": "重生",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
