@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-14",
-  "prev_date": "2026-08-13",
+  "date": "2026-08-15",
+  "prev_date": "2026-08-14",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -20,23 +20,23 @@
       ],
       "hot_themes": [
         {
+          "name": "反派",
+          "count": 8,
+          "category_count": 1
+        },
+        {
           "name": "天灾",
-          "count": 10,
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "种田",
           "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 6,
           "category_count": 1
         },
         {
@@ -65,27 +65,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 342,
-          "new_count": 21,
-          "dropped_count": 21,
+          "score": 340,
+          "new_count": 20,
+          "dropped_count": 20,
           "read_count": 39,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
-          "name": "天灾",
-          "count": 16,
-          "category_count": 1
-        },
-        {
           "name": "反派",
-          "count": 13,
+          "count": 12,
           "category_count": 1
         },
         {
-          "name": "穿书",
-          "count": 8,
+          "name": "天灾",
+          "count": 12,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 7,
           "category_count": 1
         },
         {
@@ -94,8 +94,8 @@
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 6,
+          "name": "穿书",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -128,13 +128,13 @@
       ],
       "hot_themes": [
         {
-          "name": "天灾",
-          "count": 16,
+          "name": "反派",
+          "count": 15,
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 13,
+          "name": "天灾",
+          "count": 15,
           "category_count": 1
         },
         {
@@ -143,13 +143,13 @@
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "系统",
           "count": 7,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 6,
+          "name": "种田",
+          "count": 7,
           "category_count": 1
         },
         {
@@ -173,27 +173,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 1996,
-          "new_count": 134,
-          "dropped_count": 134,
-          "read_count": 219,
-          "active_days": 74
+          "score": 2018,
+          "new_count": 135,
+          "dropped_count": 135,
+          "read_count": 222,
+          "active_days": 75
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 22,
+          "count": 24,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 16,
+          "count": 15,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
