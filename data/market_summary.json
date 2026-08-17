@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-16",
-  "prev_date": "2026-08-15",
+  "date": "2026-08-17",
+  "prev_date": "2026-08-16",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,27 +11,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 176,
-          "new_count": 10,
-          "dropped_count": 10,
+          "score": 168,
+          "new_count": 9,
+          "dropped_count": 8,
           "read_count": 21,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
-          "name": "反派",
+          "name": "系统",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 7,
+          "name": "反派",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -40,8 +35,8 @@
           "category_count": 1
         },
         {
-          "name": "直播",
-          "count": 4,
+          "name": "天灾",
+          "count": 6,
           "category_count": 1
         },
         {
@@ -51,6 +46,16 @@
         },
         {
           "name": "穿书",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "直播",
           "count": 1,
           "category_count": 1
         }
@@ -65,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 345,
-          "new_count": 19,
-          "dropped_count": 19,
+          "score": 339,
+          "new_count": 18,
+          "dropped_count": 18,
           "read_count": 42,
           "active_days": 14
         }
@@ -75,17 +80,17 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -95,7 +100,7 @@
         },
         {
           "name": "穿书",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -105,6 +110,11 @@
         },
         {
           "name": "重生",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
           "count": 1,
           "category_count": 1
         }
@@ -119,7 +129,7 @@
       "hot_types": [
         {
           "name": "",
-          "score": 768,
+          "score": 770,
           "new_count": 49,
           "dropped_count": 48,
           "read_count": 87,
@@ -144,7 +154,7 @@
         },
         {
           "name": "系统",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -161,6 +171,11 @@
           "name": "重生",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -173,11 +188,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2041,
-          "new_count": 136,
-          "dropped_count": 136,
-          "read_count": 225,
-          "active_days": 76
+          "score": 2064,
+          "new_count": 137,
+          "dropped_count": 137,
+          "read_count": 228,
+          "active_days": 77
         }
       ],
       "hot_themes": [
@@ -193,7 +208,7 @@
         },
         {
           "name": "系统",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -224,6 +239,11 @@
         {
           "name": "直播",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
           "category_count": 1
         }
       ]
