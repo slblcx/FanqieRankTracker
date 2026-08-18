@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-17",
-  "prev_date": "2026-08-16",
+  "date": "2026-08-18",
+  "prev_date": "2026-08-17",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 168,
-          "new_count": 9,
-          "dropped_count": 8,
+          "score": 158,
+          "new_count": 7,
+          "dropped_count": 7,
           "read_count": 21,
           "active_days": 7
         }
@@ -25,18 +25,23 @@
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 8,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 6,
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 5,
+          "category_count": 1
+        },
+        {
           "name": "天灾",
-          "count": 6,
+          "count": 5,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -50,12 +55,7 @@
           "category_count": 1
         },
         {
-          "name": "双洁",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "直播",
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -79,17 +79,17 @@
       ],
       "hot_themes": [
         {
-          "name": "反派",
-          "count": 11,
-          "category_count": 1
-        },
-        {
           "name": "天灾",
-          "count": 11,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "系统",
+          "count": 8,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
           "count": 8,
           "category_count": 1
         },
@@ -99,13 +99,13 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "直播",
           "count": 4,
           "category_count": 1
         },
         {
-          "name": "直播",
-          "count": 4,
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -114,7 +114,12 @@
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "穿书",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -129,8 +134,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 770,
-          "new_count": 49,
+          "score": 766,
+          "new_count": 48,
           "dropped_count": 48,
           "read_count": 87,
           "active_days": 30
@@ -168,12 +173,17 @@
           "category_count": 1
         },
         {
+          "name": "双洁",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "重生",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -188,11 +198,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2064,
-          "new_count": 137,
-          "dropped_count": 137,
-          "read_count": 228,
-          "active_days": 77
+          "score": 2092,
+          "new_count": 139,
+          "dropped_count": 139,
+          "read_count": 231,
+          "active_days": 78
         }
       ],
       "hot_themes": [
@@ -243,6 +253,11 @@
         },
         {
           "name": "双洁",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
