@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-20",
-  "prev_date": "2026-08-19",
+  "date": "2026-08-21",
+  "prev_date": "2026-08-20",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 188,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 202,
+          "new_count": 14,
+          "dropped_count": 15,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -30,13 +30,18 @@
           "category_count": 1
         },
         {
+          "name": "重生",
+          "count": 4,
+          "category_count": 1
+        },
+        {
           "name": "系统",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 5,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -45,8 +50,18 @@
           "category_count": 1
         },
         {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "天灾",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         },
         {
@@ -65,9 +80,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 369,
-          "new_count": 23,
-          "dropped_count": 23,
+          "score": 383,
+          "new_count": 25,
+          "dropped_count": 26,
           "read_count": 42,
           "active_days": 14
         }
@@ -75,7 +90,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -89,13 +104,13 @@
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 5,
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 5,
+          "name": "系统",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -104,8 +119,23 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -124,9 +154,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 766,
-          "new_count": 48,
-          "dropped_count": 48,
+          "score": 782,
+          "new_count": 50,
+          "dropped_count": 51,
           "read_count": 87,
           "active_days": 30
         }
@@ -134,7 +164,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 19,
+          "count": 18,
           "category_count": 1
         },
         {
@@ -148,13 +178,13 @@
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 5,
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 5,
+          "name": "系统",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -163,8 +193,23 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -183,17 +228,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2161,
-          "new_count": 145,
-          "dropped_count": 145,
-          "read_count": 237,
-          "active_days": 80
+          "score": 2198,
+          "new_count": 148,
+          "dropped_count": 149,
+          "read_count": 240,
+          "active_days": 81
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 28,
+          "count": 27,
           "category_count": 1
         },
         {
@@ -207,8 +252,13 @@
           "category_count": 1
         },
         {
+          "name": "重生",
+          "count": 8,
+          "category_count": 1
+        },
+        {
           "name": "系统",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -217,18 +267,8 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 5,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 4,
-          "category_count": 1
-        },
-        {
           "name": "空间",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -237,8 +277,18 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 1,
           "category_count": 1
         },
         {
