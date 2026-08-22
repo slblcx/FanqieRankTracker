@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-21",
-  "prev_date": "2026-08-20",
+  "date": "2026-08-22",
+  "prev_date": "2026-08-21",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,8 +11,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 202,
-          "new_count": 14,
+          "score": 206,
+          "new_count": 15,
           "dropped_count": 15,
           "read_count": 21,
           "active_days": 7
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 7,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -80,8 +80,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 383,
-          "new_count": 25,
+          "score": 387,
+          "new_count": 26,
           "dropped_count": 26,
           "read_count": 42,
           "active_days": 14
@@ -90,12 +90,12 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 11,
+          "count": 15,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -154,9 +154,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 782,
-          "new_count": 50,
-          "dropped_count": 51,
+          "score": 792,
+          "new_count": 52,
+          "dropped_count": 52,
           "read_count": 87,
           "active_days": 30
         }
@@ -164,7 +164,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 18,
+          "count": 22,
           "category_count": 1
         },
         {
@@ -228,17 +228,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2198,
-          "new_count": 148,
-          "dropped_count": 149,
-          "read_count": 240,
-          "active_days": 81
+          "score": 2224,
+          "new_count": 150,
+          "dropped_count": 150,
+          "read_count": 243,
+          "active_days": 82
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 27,
+          "count": 31,
           "category_count": 1
         },
         {
