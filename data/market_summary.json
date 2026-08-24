@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-23",
-  "prev_date": "2026-08-22",
+  "date": "2026-08-24",
+  "prev_date": "2026-08-23",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -55,11 +55,6 @@
           "category_count": 1
         },
         {
-          "name": "强制爱",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "天灾",
           "count": 1,
           "category_count": 1
@@ -80,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 381,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 373,
+          "new_count": 24,
+          "dropped_count": 23,
           "read_count": 42,
           "active_days": 14
         }
@@ -91,11 +86,6 @@
         {
           "name": "反派",
           "count": 15,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 6,
           "category_count": 1
         },
         {
@@ -109,12 +99,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 4,
+          "name": "天灾",
+          "count": 5,
           "category_count": 1
         },
         {
-          "name": "直播",
+          "name": "重生",
           "count": 4,
           "category_count": 1
         },
@@ -134,7 +124,7 @@
           "category_count": 1
         },
         {
-          "name": "强制爱",
+          "name": "直播",
           "count": 1,
           "category_count": 1
         },
@@ -208,11 +198,6 @@
           "category_count": 1
         },
         {
-          "name": "强制爱",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "基建",
           "count": 1,
           "category_count": 1
@@ -228,11 +213,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2246,
-          "new_count": 151,
-          "dropped_count": 151,
-          "read_count": 246,
-          "active_days": 83
+          "score": 2269,
+          "new_count": 152,
+          "dropped_count": 152,
+          "read_count": 249,
+          "active_days": 84
         }
       ],
       "hot_themes": [
@@ -284,11 +269,6 @@
         {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "强制爱",
-          "count": 1,
           "category_count": 1
         },
         {
