@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-26",
-  "prev_date": "2026-08-25",
+  "date": "2026-08-27",
+  "prev_date": "2026-08-26",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 192,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 174,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,16 +21,11 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 11,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
           "count": 4,
           "category_count": 1
         },
@@ -47,6 +42,11 @@
         {
           "name": "双洁",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -75,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 367,
-          "new_count": 23,
-          "dropped_count": 23,
+          "score": 361,
+          "new_count": 22,
+          "dropped_count": 22,
           "read_count": 42,
           "active_days": 14
         }
@@ -85,7 +85,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -109,12 +109,12 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 3,
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "天灾",
           "count": 2,
           "category_count": 1
         },
@@ -139,9 +139,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 778,
-          "new_count": 50,
-          "dropped_count": 50,
+          "score": 766,
+          "new_count": 48,
+          "dropped_count": 48,
           "read_count": 87,
           "active_days": 30
         }
@@ -208,11 +208,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2318,
+          "score": 2334,
           "new_count": 155,
           "dropped_count": 155,
-          "read_count": 255,
-          "active_days": 86
+          "read_count": 258,
+          "active_days": 87
         }
       ],
       "hot_themes": [
