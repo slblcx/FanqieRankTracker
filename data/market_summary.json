@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-28",
-  "prev_date": "2026-08-27",
+  "date": "2026-08-29",
+  "prev_date": "2026-08-28",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,8 +11,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 166,
-          "new_count": 9,
+          "score": 162,
+          "new_count": 8,
           "dropped_count": 8,
           "read_count": 21,
           "active_days": 7
@@ -20,12 +20,12 @@
       ],
       "hot_themes": [
         {
-          "name": "反派",
-          "count": 8,
+          "name": "系统",
+          "count": 5,
           "category_count": 1
         },
         {
-          "name": "系统",
+          "name": "反派",
           "count": 5,
           "category_count": 1
         },
@@ -80,7 +80,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -129,9 +129,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 766,
-          "new_count": 48,
-          "dropped_count": 48,
+          "score": 754,
+          "new_count": 46,
+          "dropped_count": 46,
           "read_count": 87,
           "active_days": 30
         }
@@ -198,11 +198,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2363,
-          "new_count": 157,
-          "dropped_count": 157,
-          "read_count": 261,
-          "active_days": 88
+          "score": 2386,
+          "new_count": 158,
+          "dropped_count": 158,
+          "read_count": 264,
+          "active_days": 89
         }
       ],
       "hot_themes": [
