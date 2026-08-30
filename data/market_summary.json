@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-29",
-  "prev_date": "2026-08-28",
+  "date": "2026-08-30",
+  "prev_date": "2026-08-29",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -30,11 +30,6 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 2,
           "category_count": 1
@@ -50,7 +45,7 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "空间",
           "count": 1,
           "category_count": 1
         },
@@ -80,7 +75,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -99,11 +94,6 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 2,
           "category_count": 1
@@ -111,6 +101,11 @@
         {
           "name": "双洁",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -139,7 +134,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 25,
+          "count": 26,
           "category_count": 1
         },
         {
@@ -168,11 +163,6 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 2,
           "category_count": 1
@@ -180,6 +170,11 @@
         {
           "name": "双洁",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -198,17 +193,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2386,
-          "new_count": 158,
-          "dropped_count": 158,
-          "read_count": 264,
-          "active_days": 89
+          "score": 2408,
+          "new_count": 159,
+          "dropped_count": 159,
+          "read_count": 267,
+          "active_days": 90
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 34,
+          "count": 35,
           "category_count": 1
         },
         {
@@ -238,7 +233,7 @@
         },
         {
           "name": "空间",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
