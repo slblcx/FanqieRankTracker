@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-01",
-  "prev_date": "2026-08-30",
+  "date": "2026-09-02",
+  "prev_date": "2026-09-01",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 174,
+          "score": 172,
           "new_count": 10,
-          "dropped_count": 10,
+          "dropped_count": 9,
           "read_count": 21,
           "active_days": 7
         }
@@ -36,7 +36,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -60,9 +60,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 379,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 373,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
           "active_days": 14
         }
@@ -84,12 +84,12 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "种田",
           "count": 5,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "穿书",
           "count": 4,
           "category_count": 1
         },
@@ -114,17 +114,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 764,
-          "new_count": 47,
-          "dropped_count": 47,
-          "read_count": 87,
+          "score": 769,
+          "new_count": 46,
+          "dropped_count": 46,
+          "read_count": 90,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 24,
+          "count": 25,
           "category_count": 1
         },
         {
@@ -149,7 +149,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -178,17 +178,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2442,
-          "new_count": 162,
-          "dropped_count": 162,
-          "read_count": 270,
-          "active_days": 91
+          "score": 2465,
+          "new_count": 163,
+          "dropped_count": 163,
+          "read_count": 273,
+          "active_days": 92
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 36,
+          "count": 37,
           "category_count": 1
         },
         {
@@ -223,7 +223,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
