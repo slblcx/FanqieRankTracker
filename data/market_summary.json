@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-02",
-  "prev_date": "2026-09-01",
+  "date": "2026-09-03",
+  "prev_date": "2026-09-02",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 172,
-          "new_count": 10,
-          "dropped_count": 9,
+          "score": 182,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,12 +21,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -41,12 +41,17 @@
         },
         {
           "name": "空间",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "基建",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -70,7 +75,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -80,7 +85,7 @@
         },
         {
           "name": "系统",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -95,12 +100,17 @@
         },
         {
           "name": "空间",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "基建",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -114,9 +124,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 769,
-          "new_count": 46,
-          "dropped_count": 46,
+          "score": 775,
+          "new_count": 47,
+          "dropped_count": 47,
           "read_count": 90,
           "active_days": 30
         }
@@ -129,11 +139,6 @@
         },
         {
           "name": "天灾",
-          "count": 10,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
           "count": 9,
           "category_count": 1
         },
@@ -143,8 +148,13 @@
           "category_count": 1
         },
         {
+          "name": "穿书",
+          "count": 8,
+          "category_count": 1
+        },
+        {
           "name": "系统",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -159,12 +169,17 @@
         },
         {
           "name": "空间",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "基建",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -178,17 +193,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2465,
-          "new_count": 163,
-          "dropped_count": 163,
-          "read_count": 273,
-          "active_days": 92
+          "score": 2500,
+          "new_count": 166,
+          "dropped_count": 166,
+          "read_count": 276,
+          "active_days": 93
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 37,
+          "count": 38,
           "category_count": 1
         },
         {
@@ -208,7 +223,7 @@
         },
         {
           "name": "系统",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -218,7 +233,7 @@
         },
         {
           "name": "空间",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -234,6 +249,11 @@
         {
           "name": "基建",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
