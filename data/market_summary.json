@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-04",
-  "prev_date": "2026-09-03",
+  "date": "2026-09-05",
+  "prev_date": "2026-09-04",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 184,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 178,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
           "active_days": 7
         }
@@ -36,7 +36,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -50,13 +50,8 @@
           "category_count": 1
         },
         {
-          "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "基建",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
@@ -70,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 357,
-          "new_count": 22,
-          "dropped_count": 22,
+          "score": 343,
+          "new_count": 20,
+          "dropped_count": 19,
           "read_count": 42,
           "active_days": 14
         }
@@ -84,18 +79,18 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 8,
-          "category_count": 1
-        },
-        {
           "name": "系统",
           "count": 7,
           "category_count": 1
         },
         {
+          "name": "重生",
+          "count": 5,
+          "category_count": 1
+        },
+        {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -109,17 +104,12 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "基建",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
           "count": 1,
           "category_count": 1
         }
@@ -144,7 +134,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 23,
+          "count": 24,
           "category_count": 1
         },
         {
@@ -169,7 +159,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -188,13 +178,8 @@
           "category_count": 1
         },
         {
-          "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "基建",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
@@ -208,17 +193,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2518,
-          "new_count": 167,
-          "dropped_count": 167,
-          "read_count": 279,
-          "active_days": 94
+          "score": 2540,
+          "new_count": 168,
+          "dropped_count": 168,
+          "read_count": 282,
+          "active_days": 95
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 39,
+          "count": 40,
           "category_count": 1
         },
         {
@@ -253,7 +238,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -267,13 +252,8 @@
           "category_count": 1
         },
         {
-          "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "基建",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
