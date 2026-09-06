@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-05",
-  "prev_date": "2026-09-04",
+  "date": "2026-09-06",
+  "prev_date": "2026-09-05",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,22 +11,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 178,
+          "score": 180,
           "new_count": 11,
-          "dropped_count": 11,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
-          "name": "反派",
+          "name": "系统",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 7,
+          "name": "反派",
+          "count": 8,
           "category_count": 1
         },
         {
@@ -53,6 +53,11 @@
           "name": "基建",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -65,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 343,
-          "new_count": 20,
-          "dropped_count": 19,
+          "score": 341,
+          "new_count": 19,
+          "dropped_count": 20,
           "read_count": 42,
           "active_days": 14
         }
@@ -75,12 +80,12 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 14,
+          "count": 11,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -112,6 +117,11 @@
           "name": "穿书",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -124,9 +134,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 765,
-          "new_count": 46,
-          "dropped_count": 46,
+          "score": 773,
+          "new_count": 47,
+          "dropped_count": 48,
           "read_count": 90,
           "active_days": 30
         }
@@ -143,12 +153,12 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "系统",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "系统",
+          "name": "天灾",
           "count": 7,
           "category_count": 1
         },
@@ -181,6 +191,11 @@
           "name": "基建",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -193,11 +208,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2540,
-          "new_count": 168,
-          "dropped_count": 168,
-          "read_count": 282,
-          "active_days": 95
+          "score": 2565,
+          "new_count": 169,
+          "dropped_count": 170,
+          "read_count": 285,
+          "active_days": 96
         }
       ],
       "hot_themes": [
@@ -223,7 +238,7 @@
         },
         {
           "name": "系统",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -254,6 +269,11 @@
         {
           "name": "基建",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
