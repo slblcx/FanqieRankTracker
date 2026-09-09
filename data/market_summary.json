@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-07",
-  "prev_date": "2026-09-06",
+  "date": "2026-09-09",
+  "prev_date": "2026-09-07",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 188,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 194,
+          "new_count": 14,
+          "dropped_count": 14,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,22 +21,22 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 7,
+          "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "强制爱",
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 5,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -50,8 +50,13 @@
           "category_count": 1
         },
         {
-          "name": "基建",
-          "count": 2,
+          "name": "重生",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -65,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 349,
-          "new_count": 21,
-          "dropped_count": 21,
+          "score": 367,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
           "active_days": 14
         }
@@ -80,7 +85,7 @@
         },
         {
           "name": "系统",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -89,8 +94,13 @@
           "category_count": 1
         },
         {
+          "name": "强制爱",
+          "count": 4,
+          "category_count": 1
+        },
+        {
           "name": "种田",
-          "count": 5,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -104,8 +114,8 @@
           "category_count": 1
         },
         {
-          "name": "基建",
-          "count": 2,
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -119,9 +129,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 781,
-          "new_count": 49,
-          "dropped_count": 49,
+          "score": 799,
+          "new_count": 52,
+          "dropped_count": 52,
           "read_count": 90,
           "active_days": 30
         }
@@ -139,12 +149,12 @@
         },
         {
           "name": "系统",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -153,13 +163,18 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 5,
+          "name": "强制爱",
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "直播",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -173,8 +188,8 @@
           "category_count": 1
         },
         {
-          "name": "基建",
-          "count": 2,
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -188,11 +203,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2596,
-          "new_count": 172,
-          "dropped_count": 172,
-          "read_count": 288,
-          "active_days": 97
+          "score": 2636,
+          "new_count": 176,
+          "dropped_count": 176,
+          "read_count": 291,
+          "active_days": 98
         }
       ],
       "hot_themes": [
@@ -218,7 +233,7 @@
         },
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -232,8 +247,8 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 5,
+          "name": "强制爱",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -242,13 +257,18 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "基建",
-          "count": 2,
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
