@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-09",
-  "prev_date": "2026-09-07",
+  "date": "2026-09-10",
+  "prev_date": "2026-09-09",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 194,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 200,
+          "new_count": 15,
+          "dropped_count": 15,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -70,8 +70,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 367,
-          "new_count": 24,
+          "score": 371,
+          "new_count": 25,
           "dropped_count": 24,
           "read_count": 42,
           "active_days": 14
@@ -85,7 +85,7 @@
         },
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -139,7 +139,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 24,
+          "count": 25,
           "category_count": 1
         },
         {
@@ -149,16 +149,16 @@
         },
         {
           "name": "系统",
-          "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "穿书",
+          "count": 5,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 5,
           "category_count": 1
         },
@@ -203,17 +203,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2636,
-          "new_count": 176,
-          "dropped_count": 176,
-          "read_count": 291,
-          "active_days": 98
+          "score": 2664,
+          "new_count": 178,
+          "dropped_count": 178,
+          "read_count": 294,
+          "active_days": 99
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 40,
+          "count": 41,
           "category_count": 1
         },
         {
@@ -233,7 +233,7 @@
         },
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
