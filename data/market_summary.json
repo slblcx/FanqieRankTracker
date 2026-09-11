@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-10",
-  "prev_date": "2026-09-09",
+  "date": "2026-09-11",
+  "prev_date": "2026-09-10",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 200,
-          "new_count": 15,
-          "dropped_count": 15,
+          "score": 190,
+          "new_count": 13,
+          "dropped_count": 14,
           "read_count": 21,
           "active_days": 7
         }
@@ -26,7 +26,7 @@
         },
         {
           "name": "反派",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -50,11 +50,6 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "美食",
           "count": 1,
           "category_count": 1
@@ -71,8 +66,8 @@
         {
           "name": "",
           "score": 371,
-          "new_count": 25,
-          "dropped_count": 24,
+          "new_count": 24,
+          "dropped_count": 25,
           "read_count": 42,
           "active_days": 14
         }
@@ -129,9 +124,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 799,
-          "new_count": 52,
-          "dropped_count": 52,
+          "score": 793,
+          "new_count": 51,
+          "dropped_count": 51,
           "read_count": 90,
           "active_days": 30
         }
@@ -158,17 +153,12 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 5,
-          "category_count": 1
-        },
-        {
           "name": "强制爱",
           "count": 4,
           "category_count": 1
         },
         {
-          "name": "直播",
+          "name": "天灾",
           "count": 4,
           "category_count": 1
         },
@@ -191,6 +181,11 @@
           "name": "美食",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "直播",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -203,11 +198,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2664,
-          "new_count": 178,
-          "dropped_count": 178,
-          "read_count": 294,
-          "active_days": 99
+          "score": 2689,
+          "new_count": 179,
+          "dropped_count": 180,
+          "read_count": 297,
+          "active_days": 100
         }
       ],
       "hot_themes": [
