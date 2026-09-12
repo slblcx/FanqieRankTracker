@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-11",
-  "prev_date": "2026-09-10",
+  "date": "2026-09-12",
+  "prev_date": "2026-09-11",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 190,
-          "new_count": 13,
-          "dropped_count": 14,
+          "score": 216,
+          "new_count": 17,
+          "dropped_count": 17,
           "read_count": 21,
           "active_days": 7
         }
@@ -26,7 +26,7 @@
         },
         {
           "name": "反派",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -35,12 +35,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -51,6 +51,11 @@
         },
         {
           "name": "美食",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -65,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 371,
-          "new_count": 24,
-          "dropped_count": 25,
+          "score": 399,
+          "new_count": 29,
+          "dropped_count": 29,
           "read_count": 42,
           "active_days": 14
         }
@@ -94,12 +99,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -110,6 +115,11 @@
         },
         {
           "name": "美食",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -124,9 +134,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 793,
-          "new_count": 51,
-          "dropped_count": 51,
+          "score": 799,
+          "new_count": 52,
+          "dropped_count": 52,
           "read_count": 90,
           "active_days": 30
         }
@@ -134,7 +144,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 25,
+          "count": 22,
           "category_count": 1
         },
         {
@@ -163,12 +173,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -179,11 +189,6 @@
         },
         {
           "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "直播",
           "count": 1,
           "category_count": 1
         }
@@ -198,11 +203,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2689,
-          "new_count": 179,
-          "dropped_count": 180,
-          "read_count": 297,
-          "active_days": 100
+          "score": 2734,
+          "new_count": 184,
+          "dropped_count": 184,
+          "read_count": 300,
+          "active_days": 101
         }
       ],
       "hot_themes": [
@@ -213,7 +218,7 @@
         },
         {
           "name": "天灾",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -253,7 +258,7 @@
         },
         {
           "name": "种田",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
