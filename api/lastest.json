@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-12",
-  "prev_date": "2026-09-11",
+  "date": "2026-09-13",
+  "prev_date": "2026-09-12",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 1,
-      "book_count": 20
+      "book_count": 18
     },
     {
       "type": "",
       "url": "api/lastest/unknown.json",
-      "book_count": 20
+      "book_count": 18
     }
   ]
 }
