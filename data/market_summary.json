@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-15",
-  "prev_date": "2026-09-14",
+  "date": "2026-09-16",
+  "prev_date": "2026-09-15",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 256,
-          "new_count": 23,
-          "dropped_count": 24,
+          "score": 250,
+          "new_count": 22,
+          "dropped_count": 23,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,17 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "强制爱",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 3,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -45,12 +35,17 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "强制爱",
           "count": 1,
           "category_count": 1
         }
@@ -74,18 +69,13 @@
       ],
       "hot_themes": [
         {
-          "name": "反派",
-          "count": 8,
-          "category_count": 1
-        },
-        {
           "name": "系统",
-          "count": 7,
+          "count": 9,
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 4,
+          "name": "反派",
+          "count": 6,
           "category_count": 1
         },
         {
@@ -109,7 +99,7 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "重生",
           "count": 1,
           "category_count": 1
         }
@@ -124,9 +114,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 855,
-          "new_count": 61,
-          "dropped_count": 62,
+          "score": 867,
+          "new_count": 63,
+          "dropped_count": 64,
           "read_count": 90,
           "active_days": 30
         }
@@ -134,17 +124,17 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 21,
+          "count": 19,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "重生",
           "count": 8,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 7,
           "category_count": 1
         },
         {
@@ -171,11 +161,6 @@
           "name": "双洁",
           "count": 2,
           "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -188,22 +173,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2851,
-          "new_count": 195,
-          "dropped_count": 196,
-          "read_count": 309,
-          "active_days": 104
+          "score": 2886,
+          "new_count": 198,
+          "dropped_count": 199,
+          "read_count": 312,
+          "active_days": 105
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 41,
+          "count": 40,
+          "category_count": 1
+        },
+        {
+          "name": "系统",
+          "count": 13,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -214,11 +204,6 @@
         {
           "name": "穿书",
           "count": 12,
-          "category_count": 1
-        },
-        {
-          "name": "系统",
-          "count": 11,
           "category_count": 1
         },
         {
