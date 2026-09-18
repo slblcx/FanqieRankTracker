@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-17",
-  "prev_date": "2026-09-16",
+  "date": "2026-09-18",
+  "prev_date": "2026-09-17",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -25,7 +25,22 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "空间",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
           "count": 2,
           "category_count": 1
         },
@@ -35,28 +50,8 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -70,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 471,
-          "new_count": 41,
-          "dropped_count": 41,
+          "score": 461,
+          "new_count": 39,
+          "dropped_count": 40,
           "read_count": 42,
           "active_days": 14
         }
@@ -85,12 +80,17 @@
         },
         {
           "name": "反派",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "强制爱",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -104,23 +104,13 @@
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "团宠",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -134,9 +124,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 895,
+          "score": 897,
           "new_count": 68,
-          "dropped_count": 68,
+          "dropped_count": 69,
           "read_count": 90,
           "active_days": 30
         }
@@ -154,7 +144,7 @@
         },
         {
           "name": "重生",
-          "count": 9,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -168,28 +158,23 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "空间",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "团宠",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -203,11 +188,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2936,
-          "new_count": 204,
-          "dropped_count": 204,
-          "read_count": 315,
-          "active_days": 106
+          "score": 2960,
+          "new_count": 205,
+          "dropped_count": 206,
+          "read_count": 318,
+          "active_days": 107
         }
       ],
       "hot_themes": [
@@ -222,12 +207,12 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 15,
+          "name": "重生",
+          "count": 14,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "天灾",
           "count": 13,
           "category_count": 1
         },
@@ -258,17 +243,17 @@
         },
         {
           "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 1,
           "category_count": 1
         }
       ]
