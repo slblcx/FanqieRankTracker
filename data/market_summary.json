@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-18",
-  "prev_date": "2026-09-17",
+  "date": "2026-09-19",
+  "prev_date": "2026-09-18",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 272,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 254,
+          "new_count": 23,
+          "dropped_count": 23,
           "read_count": 21,
           "active_days": 7
         }
@@ -53,6 +53,11 @@
           "name": "双洁",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -65,8 +70,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 461,
-          "new_count": 39,
+          "score": 469,
+          "new_count": 40,
           "dropped_count": 40,
           "read_count": 42,
           "active_days": 14
@@ -80,7 +85,7 @@
         },
         {
           "name": "反派",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -112,6 +117,11 @@
           "name": "双洁",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -124,9 +134,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 897,
+          "score": 895,
           "new_count": 68,
-          "dropped_count": 69,
+          "dropped_count": 68,
           "read_count": 90,
           "active_days": 30
         }
@@ -134,7 +144,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 20,
+          "count": 19,
           "category_count": 1
         },
         {
@@ -149,7 +159,7 @@
         },
         {
           "name": "穿书",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -176,6 +186,11 @@
           "name": "双洁",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -188,11 +203,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 2960,
-          "new_count": 205,
-          "dropped_count": 206,
-          "read_count": 318,
-          "active_days": 107
+          "score": 2987,
+          "new_count": 207,
+          "dropped_count": 207,
+          "read_count": 321,
+          "active_days": 108
         }
       ],
       "hot_themes": [
@@ -213,7 +228,7 @@
         },
         {
           "name": "天灾",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
