@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-21",
-  "prev_date": "2026-09-20",
+  "date": "2026-09-22",
+  "prev_date": "2026-09-21",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 240,
-          "new_count": 21,
-          "dropped_count": 20,
+          "score": 216,
+          "new_count": 17,
+          "dropped_count": 16,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,22 +21,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -70,8 +65,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 473,
-          "new_count": 41,
+          "score": 471,
+          "new_count": 40,
           "dropped_count": 40,
           "read_count": 42,
           "active_days": 14
@@ -80,17 +75,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 9,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "强制爱",
           "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 3,
           "category_count": 1
         },
         {
@@ -100,12 +95,7 @@
         },
         {
           "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -134,9 +124,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 877,
-          "new_count": 65,
-          "dropped_count": 65,
+          "score": 869,
+          "new_count": 64,
+          "dropped_count": 63,
           "read_count": 90,
           "active_days": 30
         }
@@ -144,17 +134,17 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 16,
+          "count": 15,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 11,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -164,12 +154,7 @@
         },
         {
           "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -203,11 +188,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3038,
-          "new_count": 210,
-          "dropped_count": 210,
-          "read_count": 327,
-          "active_days": 110
+          "score": 3066,
+          "new_count": 212,
+          "dropped_count": 212,
+          "read_count": 330,
+          "active_days": 111
         }
       ],
       "hot_themes": [
@@ -218,7 +203,7 @@
         },
         {
           "name": "重生",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -228,7 +213,7 @@
         },
         {
           "name": "系统",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -258,12 +243,7 @@
         },
         {
           "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
