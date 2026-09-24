@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-23",
-  "prev_date": "2026-09-22",
+  "date": "2026-09-24",
+  "prev_date": "2026-09-23",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 204,
-          "new_count": 15,
-          "dropped_count": 14,
+          "score": 176,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -65,9 +65,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 453,
-          "new_count": 37,
-          "dropped_count": 37,
+          "score": 447,
+          "new_count": 36,
+          "dropped_count": 36,
           "read_count": 42,
           "active_days": 14
         }
@@ -75,7 +75,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -89,12 +89,12 @@
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "反派",
           "count": 2,
           "category_count": 1
         },
@@ -106,11 +106,6 @@
         {
           "name": "星际",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "强制爱",
-          "count": 1,
           "category_count": 1
         }
       ]
@@ -134,7 +129,7 @@
       "hot_themes": [
         {
           "name": "反派",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -144,7 +139,7 @@
         },
         {
           "name": "系统",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -171,11 +166,6 @@
           "name": "星际",
           "count": 2,
           "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -188,11 +178,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3089,
-          "new_count": 213,
-          "dropped_count": 213,
-          "read_count": 333,
-          "active_days": 112
+          "score": 3112,
+          "new_count": 214,
+          "dropped_count": 214,
+          "read_count": 336,
+          "active_days": 113
         }
       ],
       "hot_themes": [
@@ -212,12 +202,12 @@
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 13,
+          "name": "穿书",
+          "count": 12,
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "系统",
           "count": 12,
           "category_count": 1
         },
