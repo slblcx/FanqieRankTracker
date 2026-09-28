@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "prev_date": "2026-09-26",
+  "date": "2026-09-28",
+  "prev_date": "2026-09-27",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -50,6 +50,11 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 1,
           "category_count": 1
@@ -65,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 463,
-          "new_count": 39,
-          "dropped_count": 38,
+          "score": 453,
+          "new_count": 37,
+          "dropped_count": 37,
           "read_count": 42,
           "active_days": 14
         }
@@ -104,6 +109,11 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 1,
           "category_count": 1
@@ -119,21 +129,21 @@
       "hot_types": [
         {
           "name": "",
-          "score": 911,
-          "new_count": 70,
-          "dropped_count": 71,
+          "score": 917,
+          "new_count": 71,
+          "dropped_count": 72,
           "read_count": 90,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
-          "name": "重生",
-          "count": 9,
+          "name": "反派",
+          "count": 10,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "重生",
           "count": 9,
           "category_count": 1
         },
@@ -183,17 +193,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3229,
-          "new_count": 225,
-          "dropped_count": 226,
-          "read_count": 345,
-          "active_days": 116
+          "score": 3252,
+          "new_count": 226,
+          "dropped_count": 227,
+          "read_count": 348,
+          "active_days": 117
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 40,
+          "count": 41,
           "category_count": 1
         },
         {
