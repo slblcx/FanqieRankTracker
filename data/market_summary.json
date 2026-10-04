@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-03",
-  "prev_date": "2026-10-02",
+  "date": "2026-10-04",
+  "prev_date": "2026-10-03",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 248,
-          "new_count": 22,
-          "dropped_count": 22,
+          "score": 230,
+          "new_count": 19,
+          "dropped_count": 19,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 5,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -30,12 +40,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -45,22 +55,12 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "星际",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -75,8 +75,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 433,
-          "new_count": 34,
+          "score": 429,
+          "new_count": 33,
           "dropped_count": 33,
           "read_count": 42,
           "active_days": 14
@@ -85,7 +85,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 5,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 4,
           "category_count": 1
         },
         {
@@ -94,12 +104,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 3,
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -109,22 +119,12 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "星际",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -149,17 +149,17 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 8,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 4,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -173,27 +173,27 @@
           "category_count": 1
         },
         {
+          "name": "空间",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "星际",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "星际",
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -208,32 +208,32 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3394,
-          "new_count": 239,
-          "dropped_count": 239,
-          "read_count": 360,
-          "active_days": 121
+          "score": 3416,
+          "new_count": 240,
+          "dropped_count": 240,
+          "read_count": 363,
+          "active_days": 122
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 42,
+          "count": 44,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 15,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 15,
+          "count": 17,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 13,
+          "count": 14,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 14,
           "category_count": 1
         },
         {
@@ -248,7 +248,7 @@
         },
         {
           "name": "空间",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -267,18 +267,18 @@
           "category_count": 1
         },
         {
+          "name": "炮灰",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "双洁",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "星际",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         }
       ]
