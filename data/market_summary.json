@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-06",
-  "prev_date": "2026-10-04",
+  "date": "2026-10-07",
+  "prev_date": "2026-10-06",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -26,7 +26,7 @@
         },
         {
           "name": "重生",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -35,17 +35,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "炮灰",
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -55,12 +50,12 @@
           "category_count": 1
         },
         {
-          "name": "星际",
-          "count": 2,
+          "name": "空间",
+          "count": 1,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "星际",
           "count": 1,
           "category_count": 1
         }
@@ -90,7 +85,7 @@
         },
         {
           "name": "重生",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -99,17 +94,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "炮灰",
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -119,12 +109,12 @@
           "category_count": 1
         },
         {
-          "name": "星际",
-          "count": 2,
+          "name": "空间",
+          "count": 1,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "星际",
           "count": 1,
           "category_count": 1
         }
@@ -139,7 +129,7 @@
       "hot_types": [
         {
           "name": "",
-          "score": 945,
+          "score": 949,
           "new_count": 76,
           "dropped_count": 76,
           "read_count": 90,
@@ -154,12 +144,12 @@
         },
         {
           "name": "反派",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -168,17 +158,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "炮灰",
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -188,12 +173,12 @@
           "category_count": 1
         },
         {
-          "name": "星际",
-          "count": 2,
+          "name": "空间",
+          "count": 1,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "星际",
           "count": 1,
           "category_count": 1
         }
@@ -208,11 +193,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3444,
-          "new_count": 242,
-          "dropped_count": 242,
-          "read_count": 366,
-          "active_days": 123
+          "score": 3467,
+          "new_count": 243,
+          "dropped_count": 243,
+          "read_count": 369,
+          "active_days": 124
         }
       ],
       "hot_themes": [
@@ -223,7 +208,7 @@
         },
         {
           "name": "重生",
-          "count": 17,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -233,7 +218,7 @@
         },
         {
           "name": "天灾",
-          "count": 14,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -248,7 +233,7 @@
         },
         {
           "name": "空间",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -262,12 +247,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 3,
+          "name": "炮灰",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "炮灰",
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -278,7 +263,7 @@
         },
         {
           "name": "星际",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
