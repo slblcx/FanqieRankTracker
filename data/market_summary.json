@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "prev_date": "2026-10-06",
+  "date": "2026-10-08",
+  "prev_date": "2026-10-07",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 216,
-          "new_count": 17,
-          "dropped_count": 16,
+          "score": 192,
+          "new_count": 13,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
@@ -35,12 +35,17 @@
           "category_count": 1
         },
         {
-          "name": "炮灰",
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -50,12 +55,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
+          "name": "星际",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "星际",
+          "name": "追妻",
           "count": 1,
           "category_count": 1
         }
@@ -70,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 429,
-          "new_count": 33,
-          "dropped_count": 33,
+          "score": 423,
+          "new_count": 32,
+          "dropped_count": 32,
           "read_count": 42,
           "active_days": 14
         }
@@ -94,12 +99,17 @@
           "category_count": 1
         },
         {
-          "name": "炮灰",
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -109,12 +119,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
+          "name": "星际",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "星际",
+          "name": "追妻",
           "count": 1,
           "category_count": 1
         }
@@ -144,7 +154,7 @@
         },
         {
           "name": "反派",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -158,12 +168,17 @@
           "category_count": 1
         },
         {
-          "name": "炮灰",
+          "name": "种田",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -173,12 +188,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
+          "name": "星际",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "星际",
+          "name": "追妻",
           "count": 1,
           "category_count": 1
         }
@@ -193,11 +208,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3467,
-          "new_count": 243,
-          "dropped_count": 243,
-          "read_count": 369,
-          "active_days": 124
+          "score": 3490,
+          "new_count": 244,
+          "dropped_count": 244,
+          "read_count": 372,
+          "active_days": 125
         }
       ],
       "hot_themes": [
@@ -233,7 +248,7 @@
         },
         {
           "name": "空间",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -247,12 +262,12 @@
           "category_count": 1
         },
         {
-          "name": "炮灰",
-          "count": 2,
+          "name": "种田",
+          "count": 3,
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -263,6 +278,11 @@
         },
         {
           "name": "星际",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "追妻",
           "count": 1,
           "category_count": 1
         }
