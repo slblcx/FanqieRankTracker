@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-08",
-  "prev_date": "2026-10-07",
+  "date": "2026-10-09",
+  "prev_date": "2026-10-08",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,8 +11,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 192,
-          "new_count": 13,
+          "score": 186,
+          "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -40,6 +40,11 @@
           "category_count": 1
         },
         {
+          "name": "双洁",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "空间",
           "count": 2,
           "category_count": 1
@@ -50,7 +55,7 @@
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
@@ -60,7 +65,7 @@
           "category_count": 1
         },
         {
-          "name": "追妻",
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -75,9 +80,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 423,
-          "new_count": 32,
-          "dropped_count": 32,
+          "score": 433,
+          "new_count": 34,
+          "dropped_count": 34,
           "read_count": 42,
           "active_days": 14
         }
@@ -85,7 +90,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -104,6 +109,11 @@
           "category_count": 1
         },
         {
+          "name": "双洁",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "空间",
           "count": 2,
           "category_count": 1
@@ -114,7 +124,7 @@
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
@@ -124,7 +134,7 @@
           "category_count": 1
         },
         {
-          "name": "追妻",
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -139,9 +149,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 949,
-          "new_count": 76,
-          "dropped_count": 76,
+          "score": 957,
+          "new_count": 78,
+          "dropped_count": 77,
           "read_count": 90,
           "active_days": 30
         }
@@ -149,7 +159,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 13,
           "category_count": 1
         },
         {
@@ -173,6 +183,11 @@
           "category_count": 1
         },
         {
+          "name": "双洁",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "空间",
           "count": 2,
           "category_count": 1
@@ -183,7 +198,7 @@
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
@@ -193,7 +208,7 @@
           "category_count": 1
         },
         {
-          "name": "追妻",
+          "name": "天灾",
           "count": 1,
           "category_count": 1
         }
@@ -208,11 +223,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3490,
-          "new_count": 244,
-          "dropped_count": 244,
-          "read_count": 372,
-          "active_days": 125
+          "score": 3522,
+          "new_count": 247,
+          "dropped_count": 247,
+          "read_count": 375,
+          "active_days": 126
         }
       ],
       "hot_themes": [
@@ -222,18 +237,18 @@
           "category_count": 1
         },
         {
+          "name": "系统",
+          "count": 17,
+          "category_count": 1
+        },
+        {
           "name": "重生",
           "count": 16,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 14,
-          "category_count": 1
-        },
-        {
           "name": "天灾",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -267,23 +282,23 @@
           "category_count": 1
         },
         {
+          "name": "双洁",
+          "count": 3,
+          "category_count": 1
+        },
+        {
           "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "双洁",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "星际",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "追妻",
-          "count": 1,
           "category_count": 1
         }
       ]
