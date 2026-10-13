@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-12",
-  "prev_date": "2026-10-10",
+  "date": "2026-10-13",
+  "prev_date": "2026-10-12",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -75,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 427,
-          "new_count": 33,
-          "dropped_count": 33,
+          "score": 409,
+          "new_count": 30,
+          "dropped_count": 30,
           "read_count": 42,
           "active_days": 14
         }
@@ -139,9 +139,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 937,
-          "new_count": 74,
-          "dropped_count": 74,
+          "score": 931,
+          "new_count": 73,
+          "dropped_count": 73,
           "read_count": 90,
           "active_days": 30
         }
@@ -153,12 +153,12 @@
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 6,
+          "name": "重生",
+          "count": 5,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "反派",
           "count": 5,
           "category_count": 1
         },
@@ -191,11 +191,6 @@
           "name": "星际",
           "count": 2,
           "category_count": 1
-        },
-        {
-          "name": "强制爱",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
@@ -208,11 +203,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3573,
-          "new_count": 250,
-          "dropped_count": 250,
-          "read_count": 381,
-          "active_days": 128
+          "score": 3596,
+          "new_count": 251,
+          "dropped_count": 251,
+          "read_count": 384,
+          "active_days": 129
         }
       ],
       "hot_themes": [
