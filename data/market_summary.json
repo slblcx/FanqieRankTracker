@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-15",
-  "prev_date": "2026-10-13",
+  "date": "2026-10-16",
+  "prev_date": "2026-10-15",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 20,
           "category_count": 1
         },
         {
@@ -95,7 +95,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 20,
           "category_count": 1
         },
         {
@@ -159,9 +159,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 953,
-          "new_count": 77,
-          "dropped_count": 76,
+          "score": 931,
+          "new_count": 73,
+          "dropped_count": 73,
           "read_count": 90,
           "active_days": 30
         }
@@ -169,7 +169,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 20,
           "category_count": 1
         },
         {
@@ -233,11 +233,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3642,
-          "new_count": 256,
-          "dropped_count": 256,
-          "read_count": 387,
-          "active_days": 130
+          "score": 3664,
+          "new_count": 257,
+          "dropped_count": 257,
+          "read_count": 390,
+          "active_days": 131
         }
       ],
       "hot_themes": [
@@ -248,7 +248,7 @@
         },
         {
           "name": "系统",
-          "count": 19,
+          "count": 24,
           "category_count": 1
         },
         {
