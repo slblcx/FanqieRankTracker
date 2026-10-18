@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-17",
-  "prev_date": "2026-10-16",
+  "date": "2026-10-18",
+  "prev_date": "2026-10-17",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 198,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 194,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 22,
+          "count": 21,
           "category_count": 1
         },
         {
@@ -31,21 +31,11 @@
         },
         {
           "name": "种田",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 3,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -72,6 +62,16 @@
         {
           "name": "修仙",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -85,9 +85,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 389,
-          "new_count": 27,
-          "dropped_count": 26,
+          "score": 379,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 42,
           "active_days": 14
         }
@@ -95,7 +95,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 22,
+          "count": 21,
           "category_count": 1
         },
         {
@@ -105,21 +105,11 @@
         },
         {
           "name": "种田",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 3,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -146,6 +136,16 @@
         {
           "name": "修仙",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -159,8 +159,8 @@
       "hot_types": [
         {
           "name": "",
-          "score": 921,
-          "new_count": 72,
+          "score": 917,
+          "new_count": 71,
           "dropped_count": 70,
           "read_count": 90,
           "active_days": 30
@@ -169,7 +169,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 22,
+          "count": 21,
           "category_count": 1
         },
         {
@@ -179,21 +179,11 @@
         },
         {
           "name": "种田",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 3,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -221,6 +211,16 @@
           "name": "修仙",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -233,22 +233,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3687,
-          "new_count": 258,
-          "dropped_count": 258,
-          "read_count": 393,
-          "active_days": 132
+          "score": 3716,
+          "new_count": 260,
+          "dropped_count": 260,
+          "read_count": 396,
+          "active_days": 133
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 43,
+          "count": 41,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 26,
+          "count": 25,
           "category_count": 1
         },
         {
@@ -278,7 +278,7 @@
         },
         {
           "name": "种田",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -289,11 +289,6 @@
         {
           "name": "直播",
           "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -309,6 +304,11 @@
         {
           "name": "星际",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
           "category_count": 1
         }
       ]
