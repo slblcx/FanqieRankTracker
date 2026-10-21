@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-20",
-  "prev_date": "2026-10-19",
+  "date": "2026-10-21",
+  "prev_date": "2026-10-20",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 23,
+          "count": 24,
           "category_count": 1
         },
         {
@@ -41,7 +41,7 @@
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -105,7 +105,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 23,
+          "count": 24,
           "category_count": 1
         },
         {
@@ -125,7 +125,7 @@
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -179,9 +179,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 887,
-          "new_count": 66,
-          "dropped_count": 65,
+          "score": 859,
+          "new_count": 61,
+          "dropped_count": 61,
           "read_count": 90,
           "active_days": 30
         }
@@ -189,7 +189,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 23,
+          "count": 24,
           "category_count": 1
         },
         {
@@ -209,7 +209,7 @@
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -263,22 +263,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3772,
-          "new_count": 264,
-          "dropped_count": 264,
-          "read_count": 402,
-          "active_days": 135
+          "score": 3795,
+          "new_count": 265,
+          "dropped_count": 265,
+          "read_count": 405,
+          "active_days": 136
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 43,
+          "count": 44,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 27,
+          "count": 28,
           "category_count": 1
         },
         {
