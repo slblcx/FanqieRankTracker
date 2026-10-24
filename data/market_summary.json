@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-23",
-  "prev_date": "2026-10-22",
+  "date": "2026-10-24",
+  "prev_date": "2026-10-23",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,12 +21,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 22,
+          "count": 23,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -47,6 +47,11 @@
         {
           "name": "反派",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -71,11 +76,6 @@
         },
         {
           "name": "星际",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "修仙",
           "count": 2,
           "category_count": 1
         }
@@ -100,12 +100,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 28,
+          "count": 29,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -126,6 +126,11 @@
         {
           "name": "反派",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -150,11 +155,6 @@
         },
         {
           "name": "星际",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "修仙",
           "count": 2,
           "category_count": 1
         }
@@ -169,9 +169,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 865,
-          "new_count": 62,
-          "dropped_count": 62,
+          "score": 859,
+          "new_count": 61,
+          "dropped_count": 61,
           "read_count": 90,
           "active_days": 30
         }
@@ -179,12 +179,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 28,
+          "count": 29,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -205,6 +205,11 @@
         {
           "name": "反派",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -231,11 +236,6 @@
           "name": "星际",
           "count": 2,
           "category_count": 1
-        },
-        {
-          "name": "修仙",
-          "count": 2,
-          "category_count": 1
         }
       ]
     },
@@ -248,11 +248,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3852,
-          "new_count": 269,
-          "dropped_count": 269,
-          "read_count": 411,
-          "active_days": 138
+          "score": 3874,
+          "new_count": 270,
+          "dropped_count": 270,
+          "read_count": 414,
+          "active_days": 139
         }
       ],
       "hot_themes": [
@@ -263,17 +263,17 @@
         },
         {
           "name": "系统",
-          "count": 32,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 19,
+          "count": 33,
           "category_count": 1
         },
         {
           "name": "天灾",
           "count": 19,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 18,
           "category_count": 1
         },
         {
@@ -283,7 +283,7 @@
         },
         {
           "name": "修仙",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
