@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-25",
-  "prev_date": "2026-10-24",
+  "date": "2026-10-26",
+  "prev_date": "2026-10-25",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,12 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 23,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 6,
+          "count": 25,
           "category_count": 1
         },
         {
@@ -37,6 +32,11 @@
         {
           "name": "天灾",
           "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -55,11 +55,6 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "炮灰",
           "count": 2,
           "category_count": 1
@@ -75,8 +70,13 @@
           "category_count": 1
         },
         {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "星际",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -90,9 +90,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 375,
-          "new_count": 24,
-          "dropped_count": 24,
+          "score": 381,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 42,
           "active_days": 14
         }
@@ -100,12 +100,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 29,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 6,
+          "count": 31,
           "category_count": 1
         },
         {
@@ -116,6 +111,11 @@
         {
           "name": "天灾",
           "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -134,11 +134,6 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "炮灰",
           "count": 2,
           "category_count": 1
@@ -154,8 +149,13 @@
           "category_count": 1
         },
         {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "星际",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -169,9 +169,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 859,
-          "new_count": 61,
-          "dropped_count": 61,
+          "score": 853,
+          "new_count": 60,
+          "dropped_count": 60,
           "read_count": 90,
           "active_days": 30
         }
@@ -179,12 +179,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 29,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 6,
+          "count": 31,
           "category_count": 1
         },
         {
@@ -195,6 +190,11 @@
         {
           "name": "天灾",
           "count": 6,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -213,11 +213,6 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "炮灰",
           "count": 2,
           "category_count": 1
@@ -233,8 +228,13 @@
           "category_count": 1
         },
         {
+          "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "星际",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -248,11 +248,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3897,
-          "new_count": 271,
-          "dropped_count": 271,
-          "read_count": 417,
-          "active_days": 140
+          "score": 3920,
+          "new_count": 272,
+          "dropped_count": 272,
+          "read_count": 420,
+          "active_days": 141
         }
       ],
       "hot_themes": [
@@ -263,7 +263,7 @@
         },
         {
           "name": "系统",
-          "count": 33,
+          "count": 35,
           "category_count": 1
         },
         {
@@ -273,7 +273,7 @@
         },
         {
           "name": "重生",
-          "count": 18,
+          "count": 17,
           "category_count": 1
         },
         {
@@ -287,13 +287,13 @@
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "种田",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 6,
+          "name": "空间",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -323,7 +323,7 @@
         },
         {
           "name": "星际",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         }
       ]
