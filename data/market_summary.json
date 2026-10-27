@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "prev_date": "2026-10-25",
+  "date": "2026-10-27",
+  "prev_date": "2026-10-26",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 182,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 176,
+          "new_count": 10,
+          "dropped_count": 10,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,12 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 25,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 6,
+          "count": 24,
           "category_count": 1
         },
         {
@@ -40,7 +35,7 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "种田",
           "count": 5,
           "category_count": 1
         },
@@ -52,6 +47,16 @@
         {
           "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -67,11 +72,6 @@
         {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -90,9 +90,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 381,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 375,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
           "active_days": 14
         }
@@ -101,11 +101,6 @@
         {
           "name": "系统",
           "count": 31,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 6,
           "category_count": 1
         },
         {
@@ -124,6 +119,11 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 5,
+          "category_count": 1
+        },
+        {
           "name": "反派",
           "count": 4,
           "category_count": 1
@@ -131,6 +131,11 @@
         {
           "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -146,11 +151,6 @@
         {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -169,9 +169,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 853,
-          "new_count": 60,
-          "dropped_count": 60,
+          "score": 859,
+          "new_count": 61,
+          "dropped_count": 61,
           "read_count": 90,
           "active_days": 30
         }
@@ -180,11 +180,6 @@
         {
           "name": "系统",
           "count": 31,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 6,
           "category_count": 1
         },
         {
@@ -203,6 +198,11 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 5,
+          "category_count": 1
+        },
+        {
           "name": "反派",
           "count": 4,
           "category_count": 1
@@ -210,6 +210,11 @@
         {
           "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "空间",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -228,11 +233,6 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "星际",
           "count": 1,
           "category_count": 1
@@ -248,11 +248,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 3920,
-          "new_count": 272,
-          "dropped_count": 272,
-          "read_count": 420,
-          "active_days": 141
+          "score": 3948,
+          "new_count": 274,
+          "dropped_count": 274,
+          "read_count": 423,
+          "active_days": 142
         }
       ],
       "hot_themes": [
@@ -287,12 +287,12 @@
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "空间",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "空间",
+          "name": "种田",
           "count": 5,
           "category_count": 1
         },
