@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-29",
-  "prev_date": "2026-10-28",
+  "date": "2026-10-30",
+  "prev_date": "2026-10-29",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 194,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 200,
+          "new_count": 14,
+          "dropped_count": 14,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,16 +21,16 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 23,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 8,
+          "count": 22,
           "category_count": 1
         },
         {
           "name": "反派",
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
           "count": 8,
           "category_count": 1
         },
@@ -40,13 +40,18 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 4,
+          "name": "天灾",
+          "count": 3,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -70,12 +75,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
+          "name": "无CP",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "空间",
           "count": 1,
           "category_count": 1
         },
@@ -95,9 +100,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 381,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 387,
+          "new_count": 26,
+          "dropped_count": 26,
           "read_count": 42,
           "active_days": 14
         }
@@ -105,7 +110,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 30,
+          "count": 27,
           "category_count": 1
         },
         {
@@ -114,12 +119,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 8,
+          "name": "反派",
+          "count": 10,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "重生",
           "count": 8,
           "category_count": 1
         },
@@ -130,7 +135,12 @@
         },
         {
           "name": "修仙",
-          "count": 4,
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -154,12 +164,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
+          "name": "无CP",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "空间",
           "count": 1,
           "category_count": 1
         },
@@ -179,9 +189,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 877,
-          "new_count": 64,
-          "dropped_count": 64,
+          "score": 865,
+          "new_count": 62,
+          "dropped_count": 62,
           "read_count": 90,
           "active_days": 30
         }
@@ -198,12 +208,12 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 8,
+          "name": "反派",
+          "count": 10,
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "重生",
           "count": 8,
           "category_count": 1
         },
@@ -214,7 +224,12 @@
         },
         {
           "name": "修仙",
-          "count": 4,
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -238,12 +253,12 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
+          "name": "无CP",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "空间",
           "count": 1,
           "category_count": 1
         },
@@ -263,17 +278,17 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4023,
-          "new_count": 281,
-          "dropped_count": 281,
-          "read_count": 429,
-          "active_days": 144
+          "score": 4052,
+          "new_count": 283,
+          "dropped_count": 283,
+          "read_count": 432,
+          "active_days": 145
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 48,
+          "count": 50,
           "category_count": 1
         },
         {
@@ -298,7 +313,7 @@
         },
         {
           "name": "修仙",
-          "count": 12,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -314,6 +329,11 @@
         {
           "name": "强制爱",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -334,11 +354,6 @@
         {
           "name": "双洁",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "无CP",
-          "count": 1,
           "category_count": 1
         }
       ]
