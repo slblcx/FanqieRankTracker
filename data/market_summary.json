@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "prev_date": "2026-10-29",
+  "date": "2026-10-31",
+  "prev_date": "2026-10-30",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 200,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 206,
+          "new_count": 15,
+          "dropped_count": 15,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,16 +21,11 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 22,
+          "count": 21,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 10,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
           "count": 8,
           "category_count": 1
         },
@@ -41,21 +36,21 @@
         },
         {
           "name": "天灾",
-          "count": 3,
+          "count": 7,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "修仙",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "团宠",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -81,6 +76,11 @@
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "异能",
           "count": 1,
           "category_count": 1
         },
@@ -100,9 +100,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 387,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 393,
+          "new_count": 27,
+          "dropped_count": 27,
           "read_count": 42,
           "active_days": 14
         }
@@ -110,7 +110,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 27,
+          "count": 26,
           "category_count": 1
         },
         {
@@ -119,32 +119,27 @@
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "天灾",
           "count": 10,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "反派",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "重生",
           "count": 6,
           "category_count": 1
         },
         {
           "name": "修仙",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "团宠",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -170,6 +165,11 @@
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "异能",
           "count": 1,
           "category_count": 1
         },
@@ -189,9 +189,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 865,
-          "new_count": 62,
-          "dropped_count": 62,
+          "score": 851,
+          "new_count": 60,
+          "dropped_count": 59,
           "read_count": 90,
           "active_days": 30
         }
@@ -199,7 +199,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 33,
+          "count": 32,
           "category_count": 1
         },
         {
@@ -208,32 +208,27 @@
           "category_count": 1
         },
         {
-          "name": "反派",
+          "name": "天灾",
           "count": 10,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "反派",
           "count": 8,
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "重生",
           "count": 6,
           "category_count": 1
         },
         {
           "name": "修仙",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "团宠",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 2,
           "category_count": 1
         },
@@ -263,6 +258,11 @@
           "category_count": 1
         },
         {
+          "name": "异能",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "直播",
           "count": 1,
           "category_count": 1
@@ -278,22 +278,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4052,
-          "new_count": 283,
-          "dropped_count": 283,
-          "read_count": 432,
-          "active_days": 145
+          "score": 4080,
+          "new_count": 285,
+          "dropped_count": 285,
+          "read_count": 435,
+          "active_days": 146
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 50,
+          "count": 48,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 37,
+          "count": 36,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 23,
           "category_count": 1
         },
         {
@@ -303,17 +308,12 @@
         },
         {
           "name": "重生",
-          "count": 20,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 19,
+          "count": 18,
           "category_count": 1
         },
         {
           "name": "修仙",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -337,11 +337,6 @@
           "category_count": 1
         },
         {
-          "name": "炮灰",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 2,
           "category_count": 1
@@ -353,6 +348,11 @@
         },
         {
           "name": "双洁",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "无CP",
           "count": 2,
           "category_count": 1
         }
