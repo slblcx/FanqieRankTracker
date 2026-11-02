@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "prev_date": "2026-10-31",
+  "date": "2026-11-02",
+  "prev_date": "2026-11-01",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 206,
-          "new_count": 15,
-          "dropped_count": 15,
+          "score": 212,
+          "new_count": 16,
+          "dropped_count": 16,
           "read_count": 21,
           "active_days": 7
         }
@@ -35,12 +35,12 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "重生",
           "count": 7,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "穿书",
           "count": 6,
           "category_count": 1
         },
@@ -100,9 +100,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 387,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 393,
+          "new_count": 27,
+          "dropped_count": 27,
           "read_count": 42,
           "active_days": 14
         }
@@ -120,7 +120,7 @@
         },
         {
           "name": "穿书",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -130,7 +130,7 @@
         },
         {
           "name": "重生",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -189,9 +189,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 851,
-          "new_count": 60,
-          "dropped_count": 59,
+          "score": 833,
+          "new_count": 57,
+          "dropped_count": 56,
           "read_count": 90,
           "active_days": 30
         }
@@ -209,7 +209,7 @@
         },
         {
           "name": "穿书",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -219,7 +219,7 @@
         },
         {
           "name": "重生",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -278,11 +278,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4102,
-          "new_count": 286,
-          "dropped_count": 286,
-          "read_count": 438,
-          "active_days": 147
+          "score": 4131,
+          "new_count": 288,
+          "dropped_count": 288,
+          "read_count": 441,
+          "active_days": 148
         }
       ],
       "hot_themes": [
@@ -303,12 +303,12 @@
         },
         {
           "name": "穿书",
-          "count": 22,
+          "count": 21,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 18,
+          "count": 19,
           "category_count": 1
         },
         {
