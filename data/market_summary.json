@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-03",
-  "prev_date": "2026-11-02",
+  "date": "2026-11-04",
+  "prev_date": "2026-11-03",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 212,
-          "new_count": 16,
-          "dropped_count": 16,
+          "score": 200,
+          "new_count": 14,
+          "dropped_count": 14,
           "read_count": 21,
           "active_days": 7
         }
@@ -26,12 +26,12 @@
         },
         {
           "name": "反派",
-          "count": 12,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -41,7 +41,7 @@
         },
         {
           "name": "穿书",
-          "count": 7,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -110,7 +110,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 23,
+          "count": 24,
           "category_count": 1
         },
         {
@@ -189,9 +189,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 823,
-          "new_count": 55,
-          "dropped_count": 55,
+          "score": 817,
+          "new_count": 54,
+          "dropped_count": 54,
           "read_count": 90,
           "active_days": 30
         }
@@ -199,7 +199,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 30,
+          "count": 31,
           "category_count": 1
         },
         {
@@ -278,11 +278,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4160,
-          "new_count": 290,
-          "dropped_count": 290,
-          "read_count": 444,
-          "active_days": 149
+          "score": 4182,
+          "new_count": 291,
+          "dropped_count": 291,
+          "read_count": 447,
+          "active_days": 150
         }
       ],
       "hot_themes": [
@@ -293,7 +293,7 @@
         },
         {
           "name": "系统",
-          "count": 34,
+          "count": 35,
           "category_count": 1
         },
         {
