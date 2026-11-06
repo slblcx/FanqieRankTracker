@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "prev_date": "2026-11-04",
+  "date": "2026-11-06",
+  "prev_date": "2026-11-05",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,7 +11,7 @@
       "hot_types": [
         {
           "name": "",
-          "score": 188,
+          "score": 184,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 17,
+          "count": 18,
           "category_count": 1
         },
         {
@@ -40,18 +40,18 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "团宠",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "修仙",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -90,9 +90,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 381,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 383,
+          "new_count": 26,
+          "dropped_count": 26,
           "read_count": 42,
           "active_days": 14
         }
@@ -120,17 +120,17 @@
         },
         {
           "name": "穿书",
-          "count": 7,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 3,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -169,9 +169,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 817,
-          "new_count": 54,
-          "dropped_count": 54,
+          "score": 819,
+          "new_count": 55,
+          "dropped_count": 55,
           "read_count": 90,
           "active_days": 30
         }
@@ -179,7 +179,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 29,
+          "count": 30,
           "category_count": 1
         },
         {
@@ -193,23 +193,23 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
-          "count": 10,
-          "category_count": 1
-        },
-        {
           "name": "重生",
           "count": 9,
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 3,
+          "name": "穿书",
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -248,11 +248,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4210,
-          "new_count": 293,
-          "dropped_count": 293,
-          "read_count": 450,
-          "active_days": 151
+          "score": 4235,
+          "new_count": 295,
+          "dropped_count": 295,
+          "read_count": 453,
+          "active_days": 152
         }
       ],
       "hot_themes": [
@@ -263,7 +263,7 @@
         },
         {
           "name": "系统",
-          "count": 33,
+          "count": 34,
           "category_count": 1
         },
         {
@@ -272,12 +272,12 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
-          "count": 22,
+          "name": "重生",
+          "count": 21,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "穿书",
           "count": 21,
           "category_count": 1
         },
@@ -303,7 +303,7 @@
         },
         {
           "name": "团宠",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
