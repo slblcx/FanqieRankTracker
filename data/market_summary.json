@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-06",
-  "prev_date": "2026-11-05",
+  "date": "2026-11-07",
+  "prev_date": "2026-11-06",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 184,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 178,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
           "active_days": 7
         }
@@ -30,23 +30,23 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 8,
-          "category_count": 1
-        },
-        {
           "name": "重生",
           "count": 6,
           "category_count": 1
         },
         {
-          "name": "修仙",
+          "name": "穿书",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "穿书",
-          "count": 2,
+          "name": "天灾",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -114,13 +114,13 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 9,
+          "name": "穿书",
+          "count": 7,
           "category_count": 1
         },
         {
-          "name": "穿书",
-          "count": 6,
+          "name": "天灾",
+          "count": 7,
           "category_count": 1
         },
         {
@@ -169,9 +169,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 819,
-          "new_count": 55,
-          "dropped_count": 55,
+          "score": 813,
+          "new_count": 54,
+          "dropped_count": 54,
           "read_count": 90,
           "active_days": 30
         }
@@ -188,17 +188,17 @@
           "category_count": 1
         },
         {
+          "name": "穿书",
+          "count": 10,
+          "category_count": 1
+        },
+        {
           "name": "天灾",
-          "count": 12,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 9,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
           "count": 9,
           "category_count": 1
         },
@@ -248,11 +248,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4235,
-          "new_count": 295,
-          "dropped_count": 295,
-          "read_count": 453,
-          "active_days": 152
+          "score": 4258,
+          "new_count": 296,
+          "dropped_count": 296,
+          "read_count": 456,
+          "active_days": 153
         }
       ],
       "hot_themes": [
@@ -268,16 +268,16 @@
         },
         {
           "name": "天灾",
-          "count": 25,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 21,
+          "count": 23,
           "category_count": 1
         },
         {
           "name": "穿书",
+          "count": 22,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
           "count": 21,
           "category_count": 1
         },
