@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-07",
-  "prev_date": "2026-11-06",
+  "date": "2026-11-08",
+  "prev_date": "2026-11-07",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 18,
+          "count": 19,
           "category_count": 1
         },
         {
@@ -35,18 +35,13 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 3,
-          "category_count": 1
-        },
-        {
           "name": "修仙",
           "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -56,6 +51,11 @@
         },
         {
           "name": "无CP",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "校园",
           "count": 2,
           "category_count": 1
         },
@@ -71,11 +71,6 @@
         },
         {
           "name": "综艺",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "校园",
           "count": 1,
           "category_count": 1
         }
@@ -100,7 +95,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 19,
+          "count": 20,
           "category_count": 1
         },
         {
@@ -115,12 +110,12 @@
         },
         {
           "name": "穿书",
-          "count": 7,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 7,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -139,6 +134,11 @@
           "category_count": 1
         },
         {
+          "name": "校园",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "空间",
           "count": 1,
           "category_count": 1
@@ -150,11 +150,6 @@
         },
         {
           "name": "综艺",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "校园",
           "count": 1,
           "category_count": 1
         }
@@ -179,7 +174,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 30,
+          "count": 31,
           "category_count": 1
         },
         {
@@ -188,18 +183,18 @@
           "category_count": 1
         },
         {
+          "name": "重生",
+          "count": 9,
+          "category_count": 1
+        },
+        {
           "name": "穿书",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 10,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -218,6 +213,11 @@
           "category_count": 1
         },
         {
+          "name": "校园",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "空间",
           "count": 1,
           "category_count": 1
@@ -229,11 +229,6 @@
         },
         {
           "name": "综艺",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "校园",
           "count": 1,
           "category_count": 1
         }
@@ -248,11 +243,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4258,
-          "new_count": 296,
-          "dropped_count": 296,
-          "read_count": 456,
-          "active_days": 153
+          "score": 4280,
+          "new_count": 297,
+          "dropped_count": 297,
+          "read_count": 459,
+          "active_days": 154
         }
       ],
       "hot_themes": [
@@ -263,21 +258,21 @@
         },
         {
           "name": "系统",
-          "count": 34,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
-          "count": 23,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 22,
+          "count": 35,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 21,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 21,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 21,
           "category_count": 1
         },
@@ -312,12 +307,12 @@
           "category_count": 1
         },
         {
-          "name": "综艺",
-          "count": 1,
+          "name": "校园",
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "校园",
+          "name": "综艺",
           "count": 1,
           "category_count": 1
         }
