@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "prev_date": "2026-11-07",
+  "date": "2026-11-09",
+  "prev_date": "2026-11-08",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,12 +21,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 19,
+          "count": 22,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -50,12 +50,17 @@
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "校园",
+          "name": "双洁",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "无CP",
           "count": 2,
           "category_count": 1
         },
@@ -73,6 +78,11 @@
           "name": "综艺",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "校园",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -85,9 +95,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 383,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 389,
+          "new_count": 27,
+          "dropped_count": 27,
           "read_count": 42,
           "active_days": 14
         }
@@ -95,12 +105,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 20,
+          "count": 23,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -129,12 +139,17 @@
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "校园",
+          "name": "双洁",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "无CP",
           "count": 2,
           "category_count": 1
         },
@@ -152,6 +167,11 @@
           "name": "综艺",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "校园",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -164,9 +184,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 813,
-          "new_count": 54,
-          "dropped_count": 54,
+          "score": 819,
+          "new_count": 55,
+          "dropped_count": 55,
           "read_count": 90,
           "active_days": 30
         }
@@ -174,12 +194,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 31,
+          "count": 34,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -208,12 +228,17 @@
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "校园",
+          "name": "双洁",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "无CP",
           "count": 2,
           "category_count": 1
         },
@@ -231,6 +256,11 @@
           "name": "综艺",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "校园",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -243,22 +273,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4280,
-          "new_count": 297,
-          "dropped_count": 297,
-          "read_count": 459,
-          "active_days": 154
+          "score": 4308,
+          "new_count": 299,
+          "dropped_count": 299,
+          "read_count": 462,
+          "active_days": 155
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 53,
+          "count": 54,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 35,
+          "count": 38,
           "category_count": 1
         },
         {
@@ -302,12 +332,17 @@
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "追妻",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "校园",
+          "name": "双洁",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "无CP",
           "count": 2,
           "category_count": 1
         },
