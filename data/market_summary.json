@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "prev_date": "2026-11-09",
+  "date": "2026-11-11",
+  "prev_date": "2026-11-10",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 190,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 184,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
@@ -26,7 +26,7 @@
         },
         {
           "name": "反派",
-          "count": 8,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -70,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 401,
-          "new_count": 29,
-          "dropped_count": 29,
+          "score": 383,
+          "new_count": 26,
+          "dropped_count": 26,
           "read_count": 42,
           "active_days": 14
         }
@@ -80,12 +80,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 19,
+          "count": 18,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 14,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -95,12 +95,12 @@
         },
         {
           "name": "穿书",
-          "count": 7,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -198,11 +198,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4349,
+          "score": 4366,
           "new_count": 303,
           "dropped_count": 303,
-          "read_count": 465,
-          "active_days": 156
+          "read_count": 468,
+          "active_days": 157
         }
       ],
       "hot_themes": [
