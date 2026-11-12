@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "prev_date": "2026-11-10",
+  "date": "2026-11-12",
+  "prev_date": "2026-11-11",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 18,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -31,7 +31,7 @@
         },
         {
           "name": "重生",
-          "count": 6,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -70,9 +70,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 383,
-          "new_count": 26,
-          "dropped_count": 26,
+          "score": 371,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
           "active_days": 14
         }
@@ -80,7 +80,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 18,
+          "count": 16,
           "category_count": 1
         },
         {
@@ -90,17 +90,17 @@
         },
         {
           "name": "重生",
-          "count": 9,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
           "count": 4,
           "category_count": 1
         },
         {
           "name": "天灾",
           "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -134,9 +134,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 827,
-          "new_count": 56,
-          "dropped_count": 56,
+          "score": 821,
+          "new_count": 55,
+          "dropped_count": 55,
           "read_count": 90,
           "active_days": 30
         }
@@ -144,7 +144,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 30,
+          "count": 28,
           "category_count": 1
         },
         {
@@ -158,13 +158,13 @@
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 9,
+          "name": "天灾",
+          "count": 8,
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 8,
+          "name": "重生",
+          "count": 7,
           "category_count": 1
         },
         {
@@ -198,11 +198,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4366,
-          "new_count": 303,
-          "dropped_count": 303,
-          "read_count": 468,
-          "active_days": 157
+          "score": 4394,
+          "new_count": 305,
+          "dropped_count": 305,
+          "read_count": 471,
+          "active_days": 158
         }
       ],
       "hot_themes": [
@@ -213,7 +213,7 @@
         },
         {
           "name": "系统",
-          "count": 34,
+          "count": 32,
           "category_count": 1
         },
         {
@@ -222,13 +222,13 @@
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "天灾",
           "count": 21,
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 21,
+          "name": "重生",
+          "count": 19,
           "category_count": 1
         },
         {
