@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "prev_date": "2026-11-12",
+  "date": "2026-11-14",
+  "prev_date": "2026-11-13",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 182,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 188,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,16 +21,21 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 16,
+          "count": 18,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
           "count": 4,
           "category_count": 1
         },
@@ -57,6 +62,11 @@
         {
           "name": "校园",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 1,
           "category_count": 1
         }
       ]
@@ -80,12 +90,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 16,
+          "count": 18,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 11,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -94,7 +104,7 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "幼崽",
           "count": 4,
           "category_count": 1
         },
@@ -122,6 +132,16 @@
           "name": "校园",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -134,9 +154,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 821,
-          "new_count": 55,
-          "dropped_count": 55,
+          "score": 803,
+          "new_count": 52,
+          "dropped_count": 52,
           "read_count": 90,
           "active_days": 30
         }
@@ -144,12 +164,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 28,
+          "count": 27,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 14,
+          "count": 15,
           "category_count": 1
         },
         {
@@ -168,6 +188,11 @@
           "category_count": 1
         },
         {
+          "name": "幼崽",
+          "count": 4,
+          "category_count": 1
+        },
+        {
           "name": "修仙",
           "count": 3,
           "category_count": 1
@@ -186,6 +211,11 @@
           "name": "校园",
           "count": 2,
           "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -198,22 +228,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4416,
-          "new_count": 306,
-          "dropped_count": 306,
-          "read_count": 474,
-          "active_days": 159
+          "score": 4445,
+          "new_count": 308,
+          "dropped_count": 308,
+          "read_count": 477,
+          "active_days": 160
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 54,
+          "count": 55,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 32,
+          "count": 34,
           "category_count": 1
         },
         {
@@ -242,6 +272,11 @@
           "category_count": 1
         },
         {
+          "name": "幼崽",
+          "count": 4,
+          "category_count": 1
+        },
+        {
           "name": "强制爱",
           "count": 4,
           "category_count": 1
@@ -264,6 +299,11 @@
         {
           "name": "校园",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
+          "count": 1,
           "category_count": 1
         }
       ]
