@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "prev_date": "2026-11-14",
+  "date": "2026-11-17",
+  "prev_date": "2026-11-16",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 194,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 188,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 20,
+          "count": 19,
           "category_count": 1
         },
         {
@@ -45,13 +45,13 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
+          "name": "修仙",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 3,
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -78,6 +78,11 @@
           "name": "远古",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "基建",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -90,9 +95,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 371,
-          "new_count": 24,
-          "dropped_count": 24,
+          "score": 365,
+          "new_count": 23,
+          "dropped_count": 23,
           "read_count": 42,
           "active_days": 14
         }
@@ -100,7 +105,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 20,
+          "count": 19,
           "category_count": 1
         },
         {
@@ -124,13 +129,13 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
+          "name": "修仙",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 3,
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -155,6 +160,11 @@
         },
         {
           "name": "远古",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -179,7 +189,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 26,
+          "count": 25,
           "category_count": 1
         },
         {
@@ -208,13 +218,13 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
+          "name": "修仙",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 3,
+          "name": "团宠",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -241,6 +251,11 @@
           "name": "远古",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "基建",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -253,11 +268,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4474,
-          "new_count": 310,
-          "dropped_count": 310,
-          "read_count": 480,
-          "active_days": 161
+          "score": 4496,
+          "new_count": 311,
+          "dropped_count": 311,
+          "read_count": 483,
+          "active_days": 162
         }
       ],
       "hot_themes": [
@@ -268,7 +283,7 @@
         },
         {
           "name": "系统",
-          "count": 36,
+          "count": 35,
           "category_count": 1
         },
         {
@@ -313,7 +328,7 @@
         },
         {
           "name": "团宠",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
