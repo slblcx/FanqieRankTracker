@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-21",
-  "prev_date": "2026-11-19",
+  "date": "2026-11-22",
+  "prev_date": "2026-11-21",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 218,
-          "new_count": 17,
-          "dropped_count": 17,
+          "score": 212,
+          "new_count": 16,
+          "dropped_count": 16,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,12 +21,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -80,9 +80,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 401,
-          "new_count": 29,
-          "dropped_count": 29,
+          "score": 395,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 42,
           "active_days": 14
         }
@@ -90,12 +90,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 15,
+          "count": 16,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -149,9 +149,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 845,
-          "new_count": 59,
-          "dropped_count": 59,
+          "score": 833,
+          "new_count": 57,
+          "dropped_count": 57,
           "read_count": 90,
           "active_days": 30
         }
@@ -164,12 +164,12 @@
         },
         {
           "name": "反派",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "穿书",
-          "count": 11,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -223,22 +223,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4583,
-          "new_count": 320,
-          "dropped_count": 320,
-          "read_count": 489,
-          "active_days": 164
+          "score": 4606,
+          "new_count": 321,
+          "dropped_count": 321,
+          "read_count": 492,
+          "active_days": 165
         }
       ],
       "hot_themes": [
         {
           "name": "反派",
-          "count": 53,
+          "count": 54,
           "category_count": 1
         },
         {
           "name": "系统",
-          "count": 31,
+          "count": 32,
           "category_count": 1
         },
         {
