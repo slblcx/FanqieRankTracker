@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "prev_date": "2026-11-21",
+  "date": "2026-11-23",
+  "prev_date": "2026-11-22",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 16,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -41,16 +41,11 @@
         },
         {
           "name": "穿书",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "团宠",
           "count": 2,
           "category_count": 1
         },
@@ -80,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 395,
-          "new_count": 28,
-          "dropped_count": 28,
+          "score": 393,
+          "new_count": 27,
+          "dropped_count": 27,
           "read_count": 42,
           "active_days": 14
         }
@@ -90,7 +85,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 16,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -115,11 +110,6 @@
         },
         {
           "name": "团宠",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "无CP",
           "count": 2,
           "category_count": 1
         },
@@ -159,7 +149,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 21,
+          "count": 19,
           "category_count": 1
         },
         {
@@ -193,11 +183,6 @@
           "category_count": 1
         },
         {
-          "name": "无CP",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 1,
           "category_count": 1
@@ -223,11 +208,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4606,
-          "new_count": 321,
-          "dropped_count": 321,
-          "read_count": 492,
-          "active_days": 165
+          "score": 4628,
+          "new_count": 322,
+          "dropped_count": 322,
+          "read_count": 495,
+          "active_days": 166
         }
       ],
       "hot_themes": [
@@ -238,7 +223,7 @@
         },
         {
           "name": "系统",
-          "count": 32,
+          "count": 30,
           "category_count": 1
         },
         {
@@ -287,17 +272,17 @@
           "category_count": 1
         },
         {
-          "name": "无CP",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "美食",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
