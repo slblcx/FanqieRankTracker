@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "prev_date": "2026-11-24",
+  "date": "2026-11-26",
+  "prev_date": "2026-11-25",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -45,11 +45,6 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "美食",
           "count": 2,
           "category_count": 1
@@ -65,7 +60,7 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
+          "name": "种田",
           "count": 1,
           "category_count": 1
         }
@@ -80,9 +75,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 399,
-          "new_count": 28,
-          "dropped_count": 28,
+          "score": 393,
+          "new_count": 27,
+          "dropped_count": 27,
           "read_count": 42,
           "active_days": 14
         }
@@ -119,11 +114,6 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "美食",
           "count": 2,
           "category_count": 1
@@ -134,7 +124,7 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
+          "name": "种田",
           "count": 1,
           "category_count": 1
         }
@@ -193,11 +183,6 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "美食",
           "count": 2,
           "category_count": 1
@@ -208,7 +193,7 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
+          "name": "种田",
           "count": 1,
           "category_count": 1
         }
@@ -223,11 +208,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4679,
-          "new_count": 325,
-          "dropped_count": 325,
-          "read_count": 501,
-          "active_days": 168
+          "score": 4702,
+          "new_count": 326,
+          "dropped_count": 326,
+          "read_count": 504,
+          "active_days": 169
         }
       ],
       "hot_themes": [
@@ -258,7 +243,7 @@
         },
         {
           "name": "修仙",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -287,11 +272,6 @@
           "category_count": 1
         },
         {
-          "name": "种田",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "美食",
           "count": 2,
           "category_count": 1
@@ -299,6 +279,11 @@
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
+          "count": 1,
           "category_count": 1
         }
       ]
