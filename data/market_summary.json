@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-26",
-  "prev_date": "2026-11-25",
+  "date": "2026-11-27",
+  "prev_date": "2026-11-26",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,9 +11,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 206,
-          "new_count": 15,
-          "dropped_count": 15,
+          "score": 194,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
           "active_days": 7
         }
@@ -21,7 +21,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
@@ -31,11 +31,6 @@
         },
         {
           "name": "重生",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
           "count": 2,
           "category_count": 1
         },
@@ -55,12 +50,27 @@
           "category_count": 1
         },
         {
+          "name": "穿书",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "幼崽",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "种田",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "异能",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         }
@@ -75,9 +85,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 393,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 387,
+          "new_count": 26,
+          "dropped_count": 26,
           "read_count": 42,
           "active_days": 14
         }
@@ -85,17 +95,12 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 14,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 4,
           "category_count": 1
         },
         {
@@ -105,6 +110,11 @@
         },
         {
           "name": "重生",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
           "count": 3,
           "category_count": 1
         },
@@ -127,6 +137,16 @@
           "name": "种田",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "异能",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -139,9 +159,9 @@
       "hot_types": [
         {
           "name": "",
-          "score": 827,
-          "new_count": 56,
-          "dropped_count": 56,
+          "score": 839,
+          "new_count": 58,
+          "dropped_count": 58,
           "read_count": 90,
           "active_days": 30
         }
@@ -149,7 +169,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 14,
+          "count": 15,
           "category_count": 1
         },
         {
@@ -196,6 +216,16 @@
           "name": "种田",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "异能",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -208,11 +238,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 4702,
-          "new_count": 326,
-          "dropped_count": 326,
-          "read_count": 504,
-          "active_days": 169
+          "score": 4736,
+          "new_count": 329,
+          "dropped_count": 329,
+          "read_count": 507,
+          "active_days": 170
         }
       ],
       "hot_themes": [
@@ -223,7 +253,7 @@
         },
         {
           "name": "系统",
-          "count": 29,
+          "count": 30,
           "category_count": 1
         },
         {
@@ -243,7 +273,7 @@
         },
         {
           "name": "修仙",
-          "count": 8,
+          "count": 9,
           "category_count": 1
         },
         {
